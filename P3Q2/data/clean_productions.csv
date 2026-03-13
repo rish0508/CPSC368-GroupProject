@@ -1,0 +1,951 @@
+show_id,title,type,release_year,language,genres,popularity,vote_count,vote_average
+27205,Inception,Movie,2010,en,"Action, Science Fiction, Adventure",156.242,37119,8.369
+157336,Interstellar,Movie,2014,en,"Adventure, Drama, Science Fiction",288.193,36625,8.5
+293660,Deadpool,Movie,2016,en,"Action, Adventure, Comedy",106.641,31371,7.622
+24428,The Avengers,Movie,2012,en,"Science Fiction, Action, Adventure",186.111,31285,7.73
+299536,Avengers: Infinity War,Movie,2018,en,"Adventure, Action, Science Fiction",285.584,30231,8.2
+118340,Guardians of the Galaxy,Movie,2014,en,"Action, Science Fiction, Adventure",49.395,28308,7.9
+68718,Django Unchained,Movie,2012,en,"Drama, Western",60.467,26532,8.183
+475557,Joker,Movie,2019,en,"Crime, Thriller, Drama",83.229,26169,8.1
+299534,Avengers: Endgame,Movie,2019,en,"Adventure, Science Fiction, Action",133.255,26065,8.2
+1399,Game of Thrones,TV Show,2011,en,"Sci-Fi & Fantasy, Drama, Action & Adventure",812.157,24664,8.5
+106646,The Wolf of Wall Street,Movie,2013,en,"Crime, Drama, Comedy",119.574,24358,8.031
+11324,Shutter Island,Movie,2010,en,"Drama, Thriller, Mystery",101.551,24282,8.2
+99861,Avengers: Age of Ultron,Movie,2015,en,"Action, Adventure, Science Fiction",96.35,23242,7.272
+49026,The Dark Knight Rises,Movie,2012,en,"Action, Crime, Drama, Thriller",72.208,23005,7.8
+271110,Captain America: Civil War,Movie,2016,en,"Adventure, Action, Science Fiction",172.492,22932,7.444
+76341,Mad Max: Fury Road,Movie,2015,en,"Action, Adventure, Science Fiction",99.407,22895,7.6
+284054,Black Panther,Movie,2018,en,"Action, Adventure, Science Fiction",95.547,22404,7.375
+68721,Iron Man 3,Movie,2013,en,"Action, Adventure, Science Fiction",62.635,22379,6.9
+284052,Doctor Strange,Movie,2016,en,"Action, Adventure, Fantasy",62.705,22362,7.4
+150540,Inside Out,Movie,2015,en,"Animation, Family, Adventure, Drama, Comedy",130.033,22306,7.911
+70160,The Hunger Games,Movie,2012,en,"Science Fiction, Adventure, Fantasy",62.5,22183,7.214
+315635,Spider-Man: Homecoming,Movie,2017,en,"Action, Adventure, Science Fiction, Drama",95.686,22022,7.3
+283995,Guardians of the Galaxy Vol. 2,Movie,2017,en,"Science Fiction, Adventure, Action",79.993,21793,7.6
+1771,Captain America: The First Avenger,Movie,2011,en,"Action, Adventure, Science Fiction",83.313,21654,7.0
+10195,Thor,Movie,2011,en,"Adventure, Fantasy, Action",76.373,21353,6.8
+297761,Suicide Squad,Movie,2016,en,"Action, Adventure, Fantasy",38.86,21278,5.918
+10138,Iron Man 2,Movie,2010,en,"Adventure, Action, Science Fiction",95.255,21222,6.8
+284053,Thor: Ragnarok,Movie,2017,en,"Action, Adventure, Science Fiction",84.247,20961,7.6
+12445,Harry Potter and the Deathly Hallows: Part 2,Movie,2011,en,"Fantasy, Adventure",115.252,20842,8.089
+634649,Spider-Man: No Way Home,Movie,2021,en,"Action, Adventure, Science Fiction",169.128,20558,7.949
+135397,Jurassic World,Movie,2015,en,"Action, Adventure, Science Fiction, Thriller",137.798,20543,6.693
+297762,Wonder Woman,Movie,2017,en,"Action, Adventure, Fantasy",54.739,20092,7.2
+286217,The Martian,Movie,2015,en,"Drama, Adventure, Science Fiction",56.575,19995,7.688
+102899,Ant-Man,Movie,2015,en,"Science Fiction, Action, Adventure",53.537,19921,7.1
+354912,Coco,Movie,2017,en,"Family, Animation, Music, Adventure",131.976,19784,8.2
+140607,Star Wars: The Force Awakens,Movie,2015,en,"Adventure, Action, Science Fiction",81.795,19573,7.264
+245891,John Wick,Movie,2014,en,"Action, Thriller",65.962,19494,7.442
+263115,Logan,Movie,2017,en,"Action, Drama, Science Fiction",60.572,19472,7.8
+12444,Harry Potter and the Deathly Hallows: Part 1,Movie,2010,en,"Adventure, Fantasy",121.191,19327,7.744
+346364,It,Movie,2017,en,"Horror, Thriller",68.356,19222,7.24
+100402,Captain America: The Winter Soldier,Movie,2014,en,"Action, Adventure, Science Fiction",96.415,18956,7.7
+259316,Fantastic Beasts and Where to Find Them,Movie,2016,en,"Fantasy, Adventure",52.876,18925,7.317
+210577,Gone Girl,Movie,2014,en,"Mystery, Thriller, Drama",96.166,18848,7.89
+71446,Money Heist,TV Show,2017,es,"Crime, Drama",133.64,18791,8.238
+496243,Parasite,Movie,2019,ko,"Comedy, Thriller, Drama",130.55,18728,8.5
+49051,The Hobbit: An Unexpected Journey,Movie,2012,en,"Adventure, Fantasy, Action",88.877,18623,7.357
+281957,The Revenant,Movie,2015,en,"Western, Drama, Adventure",71.919,18276,7.532
+383498,Deadpool 2,Movie,2018,en,"Action, Comedy, Adventure",70.984,18205,7.489
+209112,Batman v Superman: Dawn of Justice,Movie,2016,en,"Action, Adventure, Fantasy",80.962,18128,6.0
+66732,Stranger Things,TV Show,2016,en,"Drama, Sci-Fi & Fantasy, Mystery",341.461,18075,8.598
+329865,Arrival,Movie,2016,en,"Drama, Science Fiction, Mystery",67.679,18020,7.609
+419430,Get Out,Movie,2017,en,"Mystery, Thriller, Horror",65.597,17697,7.6
+1930,The Amazing Spider-Man,Movie,2012,en,"Action, Adventure, Science Fiction",77.777,17552,6.7
+381288,Split,Movie,2017,en,"Horror, Thriller",74.27,17517,7.3
+101299,The Hunger Games: Catching Fire,Movie,2013,en,"Adventure, Action, Science Fiction",63.789,17509,7.426
+77338,The Intouchables,Movie,2011,fr,"Drama, Comedy",72.092,17454,8.273
+76338,Thor: The Dark World,Movie,2013,en,"Action, Adventure, Fantasy",60.25,17451,6.5
+198663,The Maze Runner,Movie,2014,en,"Action, Mystery, Science Fiction, Thriller",173.015,17200,7.188
+205596,The Imitation Game,Movie,2014,en,"History, Drama, Thriller, War",72.88,17188,7.996
+313369,La La Land,Movie,2016,en,"Comedy, Drama, Romance, Music",76.174,17108,7.9
+424694,Bohemian Rhapsody,Movie,2018,en,"Music, Drama",46.096,17009,7.979
+207703,Kingsman: The Secret Service,Movie,2015,en,"Crime, Comedy, Action, Adventure",68.446,16942,7.6
+1402,The Walking Dead,TV Show,2010,en,"Action & Adventure, Drama, Sci-Fi & Fantasy",485.66,16790,8.103
+109445,Frozen,Movie,2013,en,"Animation, Family, Adventure, Fantasy",109.748,16723,7.2
+374720,Dunkirk,Movie,2017,en,"War, Action, Drama",51.899,16641,7.45
+269149,Zootopia,Movie,2016,en,"Animation, Adventure, Family, Comedy",103.259,16538,7.7
+335983,Venom,Movie,2018,en,"Science Fiction, Action",129.051,16383,6.829
+240832,Lucy,Movie,2014,en,"Action, Science Fiction",72.149,16180,6.457
+131631,The Hunger Games: Mockingjay - Part 1,Movie,2014,en,"Science Fiction, Adventure, Thriller",99.082,15955,6.813
+324857,Spider-Man: Into the Spider-Verse,Movie,2018,en,"Animation, Action, Adventure, Science Fiction",127.259,15936,8.397
+429617,Spider-Man: Far From Home,Movie,2019,en,"Action, Adventure, Science Fiction",83.134,15924,7.4
+339403,Baby Driver,Movie,2017,en,"Action, Crime",61.173,15893,7.448
+299537,Captain Marvel,Movie,2019,en,"Action, Adventure, Science Fiction",66.195,15891,6.8
+333339,Ready Player One,Movie,2018,en,"Adventure, Action, Science Fiction",110.481,15835,7.591
+177572,Big Hero 6,Movie,2014,en,"Adventure, Family, Animation, Action, Comedy",131.013,15778,7.7
+75656,Now You See Me,Movie,2013,en,"Thriller, Crime",36.245,15652,7.3
+72190,World War Z,Movie,2013,en,"Action, Horror, Science Fiction, Thriller",94.738,15569,6.8
+321612,Beauty and the Beast,Movie,2017,en,"Family, Fantasy, Romance",109.3,15542,7.0
+93405,Squid Game,TV Show,2021,ko,"Action & Adventure, Mystery, Drama",836.57,15536,7.862
+49047,Gravity,Movie,2013,en,"Science Fiction, Thriller, Drama",31.73,15464,7.164
+181808,Star Wars: The Last Jedi,Movie,2017,en,"Adventure, Action, Science Fiction",110.867,15456,6.783
+127585,X-Men: Days of Future Past,Movie,2014,en,"Action, Adventure, Science Fiction",69.189,15454,7.529
+244786,Whiplash,Movie,2014,en,"Drama, Music",97.314,15418,8.4
+330459,Rogue One: A Star Wars Story,Movie,2016,en,"Action, Adventure, Science Fiction",48.066,15411,7.493
+37724,Skyfall,Movie,2012,en,"Action, Adventure, Thriller",43.293,15328,7.247
+49521,Man of Steel,Movie,2013,en,"Action, Adventure, Science Fiction",54.278,15277,6.6
+20352,Despicable Me,Movie,2010,en,"Animation, Family, Comedy",86.361,15258,7.2
+120467,The Grand Budapest Hotel,Movie,2014,en,"Comedy, Drama",57.345,14993,8.042
+63174,Lucifer,TV Show,2016,en,"Crime, Sci-Fi & Fantasy",495.093,14889,8.5
+10193,Toy Story 3,Movie,2010,en,"Animation, Family, Comedy",83.097,14847,7.8
+44214,Black Swan,Movie,2010,en,"Drama, Thriller, Horror",45.984,14650,7.7
+122917,The Hobbit: The Battle of the Five Armies,Movie,2014,en,"Action, Adventure, Fantasy",139.146,14462,7.325
+152601,Her,Movie,2013,en,"Romance, Science Fiction, Drama",53.436,14418,7.851
+447332,A Quiet Place,Movie,2018,en,"Horror, Drama, Science Fiction",77.204,14400,7.399
+273248,The Hateful Eight,Movie,2015,en,"Drama, Mystery, Western",40.532,14368,7.8
+297802,Aquaman,Movie,2018,en,"Action, Adventure, Fantasy",43.756,14210,6.878
+1865,Pirates of the Caribbean: On Stranger Tides,Movie,2011,en,"Adventure, Action, Fantasy",102.748,14166,6.556
+12155,Alice in Wonderland,Movie,2010,en,"Family, Fantasy, Adventure",80.326,14114,6.6
+137113,Edge of Tomorrow,Movie,2014,en,"Action, Science Fiction",87.262,14040,7.627
+324786,Hacksaw Ridge,Movie,2016,en,"Drama, History, War",93.791,13943,8.195
+335984,Blade Runner 2049,Movie,2017,en,"Science Fiction, Drama",126.418,13913,7.573
+353486,Jumanji: Welcome to the Jungle,Movie,2017,en,"Adventure, Comedy, Fantasy",54.568,13755,6.821
+466272,Once Upon a Time... in Hollywood,Movie,2019,en,"Comedy, Drama, Thriller",57.722,13690,7.4
+69050,Riverdale,TV Show,2017,en,"Crime, Drama, Mystery",283.997,13505,8.4
+62177,Brave,Movie,2012,en,"Animation, Adventure, Comedy, Family, Action, Fantasy",67.249,13501,7.02
+363088,Ant-Man and the Wasp,Movie,2018,en,"Action, Adventure, Science Fiction",40.044,13451,6.9
+264660,Ex Machina,Movie,2015,en,"Drama, Science Fiction",44.885,13407,7.6
+102382,The Amazing Spider-Man 2,Movie,2014,en,"Action, Adventure, Science Fiction",85.092,13403,6.5
+274870,Passengers,Movie,2016,en,"Drama, Romance, Science Fiction",35.662,13402,6.95
+57158,The Hobbit: The Desolation of Smaug,Movie,2013,en,"Fantasy, Adventure, Action",73.464,13340,7.571
+324552,John Wick: Chapter 2,Movie,2017,en,"Action, Thriller, Crime",69.937,13267,7.332
+10191,How to Train Your Dragon,Movie,2010,en,"Fantasy, Adventure, Animation, Family",110.044,13259,7.8
+438631,Dune,Movie,2021,en,"Science Fiction, Adventure",148.343,13242,7.783
+102651,Maleficent,Movie,2014,en,"Fantasy, Adventure, Action, Family, Romance",75.067,13203,7.1
+87827,Life of Pi,Movie,2012,en,"Adventure, Drama",39.406,13168,7.4
+246655,X-Men: Apocalypse,Movie,2016,en,"Action, Adventure, Science Fiction, Fantasy",69.427,13089,6.512
+141052,Justice League,Movie,2017,en,"Action, Adventure, Science Fiction",104.189,13066,6.076
+260513,Incredibles 2,Movie,2018,en,"Action, Adventure, Animation, Family",64.538,12977,7.5
+190859,American Sniper,Movie,2014,en,"War, Action",69.376,12968,7.423
+194662,Birdman or (The Unexpected Virtue of Ignorance),Movie,2014,en,"Drama, Comedy",49.86,12913,7.5
+277834,Moana,Movie,2016,en,"Adventure, Comedy, Family, Animation",35.997,12902,7.566
+157350,Divergent,Movie,2014,en,"Action, Adventure, Science Fiction",76.232,12898,6.914
+64690,Drive,Movie,2011,en,"Drama, Thriller, Crime",39.282,12760,7.58
+546554,Knives Out,Movie,2019,en,"Comedy, Crime, Mystery",67.875,12661,7.844
+131634,The Hunger Games: Mockingjay - Part 2,Movie,2015,en,"Action, Adventure, Science Fiction",57.522,12639,6.897
+530915,1917,Movie,2019,en,"War, History, Thriller, Drama",41.902,12611,8.0
+68726,Pacific Rim,Movie,2013,en,"Action, Science Fiction, Adventure",82.243,12583,6.908
+296096,Me Before You,Movie,2016,en,"Drama, Romance",101.809,12530,7.9
+71712,The Good Doctor,TV Show,2017,en,Drama,659.996,12498,8.479
+72105,Ted,Movie,2012,en,"Comedy, Fantasy",53.05,12445,6.4
+70981,Prometheus,Movie,2012,en,"Science Fiction, Adventure, Mystery",46.151,12422,6.6
+82690,Wreck-It Ralph,Movie,2012,en,"Family, Animation, Comedy, Adventure",57.939,12420,7.342
+64682,The Great Gatsby,Movie,2013,en,"Drama, Romance",36.573,12342,7.4
+76600,Avatar: The Way of Water,Movie,2022,en,"Science Fiction, Adventure, Action",163.801,12303,7.608
+37799,The Social Network,Movie,2010,en,Drama,69.048,12285,7.368
+399055,The Shape of Water,Movie,2017,en,"Drama, Fantasy, Romance",41.298,12239,7.244
+398818,Call Me by Your Name,Movie,2017,en,"Romance, Drama",65.839,12212,8.121
+127380,Finding Dory,Movie,2016,en,"Adventure, Animation, Comedy, Family",42.88,12144,7.038
+85271,WandaVision,TV Show,2021,en,"Sci-Fi & Fantasy, Mystery, Drama",84.738,12125,8.218
+228150,Fury,Movie,2014,en,"War, Drama, Action",123.301,12116,7.5
+166426,Pirates of the Caribbean: Dead Men Tell No Tales,Movie,2017,en,"Adventure, Action, Fantasy",90.208,12116,6.652
+82693,Silver Linings Playbook,Movie,2012,en,"Drama, Comedy, Romance",25.933,12075,7.1
+61791,Rise of the Planet of the Apes,Movie,2011,en,"Thriller, Action, Drama, Science Fiction",41.497,12041,7.3
+146233,Prisoners,Movie,2013,en,"Drama, Thriller, Crime",108.647,12003,8.1
+351286,Jurassic World: Fallen Kingdom,Movie,2018,en,"Action, Adventure, Science Fiction, Thriller",112.467,11937,6.54
+216015,Fifty Shades of Grey,Movie,2015,en,"Drama, Romance, Thriller",153.555,11887,5.879
+490132,Green Book,Movie,2018,en,"Drama, History",72.737,11840,8.236
+84958,Loki,TV Show,2021,en,"Drama, Sci-Fi & Fantasy",126.25,11751,8.174
+332562,A Star Is Born,Movie,2018,en,"Music, Drama, Romance",37.741,11734,7.5
+23483,Kick-Ass,Movie,2010,en,"Action, Crime",45.668,11730,7.122
+138843,The Conjuring,Movie,2013,en,"Horror, Thriller",150.977,11710,7.5
+38757,Tangled,Movie,2010,en,"Animation, Family, Adventure",111.762,11638,7.6
+372058,Your Name.,Movie,2016,ja,"Animation, Romance, Drama",93.945,11613,8.5
+119450,Dawn of the Planet of the Apes,Movie,2014,en,"Science Fiction, Action, Drama, Thriller",68.36,11565,7.33
+49530,In Time,Movie,2011,en,"Action, Thriller, Science Fiction",43.032,11496,6.97
+93456,Despicable Me 2,Movie,2013,en,"Animation, Comedy, Family",68.104,11385,6.9
+76203,12 Years a Slave,Movie,2013,en,"Drama, History",34.073,11363,7.936
+222935,The Fault in Our Stars,Movie,2014,en,"Romance, Drama",51.521,11220,7.598
+60735,The Flash,TV Show,2014,en,"Drama, Sci-Fi & Fantasy",568.746,11216,7.776
+338952,Fantastic Beasts: The Crimes of Grindelwald,Movie,2018,en,"Fantasy, Adventure",28.804,10937,6.8
+242582,Nightcrawler,Movie,2014,en,"Crime, Drama, Thriller",58.258,10922,7.7
+458156,John Wick: Chapter 3 - Parabellum,Movie,2019,en,"Action, Thriller, Crime",76.976,10829,7.443
+76479,The Boys,TV Show,2019,en,"Sci-Fi & Fantasy, Action & Adventure",358.718,10823,8.5
+291805,Now You See Me 2,Movie,2016,en,"Crime, Thriller, Action, Mystery",43.289,10816,6.825
+75612,Oblivion,Movie,2013,en,"Action, Science Fiction, Adventure, Mystery",37.719,10802,6.651
+51876,Limitless,Movie,2011,en,"Thriller, Mystery, Science Fiction",43.127,10743,7.191
+168259,Furious 7,Movie,2015,en,"Action, Thriller, Crime",86.093,10729,7.229
+62211,Monsters University,Movie,2013,en,"Animation, Family",59.542,10725,7.039
+414906,The Batman,Movie,2022,en,"Crime, Mystery, Thriller",106.913,10676,7.659
+82992,Fast & Furious 6,Movie,2013,en,"Action, Thriller, Crime",7.785,10674,6.818
+508442,Soul,Movie,2020,en,"Animation, Family, Comedy, Fantasy",76.153,10644,8.1
+211672,Minions,Movie,2015,en,"Family, Animation, Adventure, Comedy",32.75,10640,6.41
+206647,Spectre,Movie,2015,en,"Action, Adventure, Thriller",53.678,10616,6.555
+266856,The Theory of Everything,Movie,2014,en,"Drama, Romance",32.004,10612,7.846
+45243,The Hangover Part II,Movie,2011,en,Comedy,71.647,10603,6.5
+84892,The Perks of Being a Wallflower,Movie,2012,en,Drama,35.708,10575,7.8
+293167,Kong: Skull Island,Movie,2017,en,"Action, Adventure, Fantasy",50.998,10552,6.543
+580489,Venom: Let There Be Carnage,Movie,2021,en,"Science Fiction, Action, Adventure",89.57,10523,6.779
+343668,Kingsman: The Golden Circle,Movie,2017,en,"Action, Adventure, Comedy",45.72,10511,6.962
+294254,Maze Runner: The Scorch Trials,Movie,2015,en,"Science Fiction, Action, Thriller, Adventure",69.882,10474,6.7
+58574,Sherlock Holmes: A Game of Shadows,Movie,2011,en,"Adventure, Action, Crime, Mystery",34.316,10397,7.139
+41154,Men in Black 3,Movie,2012,en,"Action, Comedy, Science Fiction",39.044,10389,6.5
+64688,21 Jump Street,Movie,2012,en,"Action, Comedy, Crime",47.939,10373,6.9
+497698,Black Widow,Movie,2021,en,"Action, Adventure, Science Fiction",67.127,10367,7.214
+337339,The Fate of the Furious,Movie,2017,en,"Action, Crime, Thriller",72.136,10362,6.9
+495764,Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn),Movie,2020,en,"Action, Crime",45.947,10351,6.9
+59967,Looper,Movie,2012,en,"Action, Thriller, Science Fiction",31.148,10261,6.889
+420818,The Lion King,Movie,2019,en,"Adventure, Drama, Family, Animation",190.405,10237,7.1
+82856,The Mandalorian,TV Show,2019,en,"Sci-Fi & Fantasy, Action & Adventure, Drama",139.772,10234,8.425
+60574,Peaky Blinders,TV Show,2013,en,"Drama, Crime",402.612,10213,8.5
+359940,"Three Billboards Outside Ebbing, Missouri",Movie,2017,en,"Crime, Drama",28.134,10208,8.068
+420817,Aladdin,Movie,2019,en,"Adventure, Fantasy, Romance, Family",60.814,10146,7.095
+791373,Zack Snyder's Justice League,Movie,2021,en,"Action, Adventure, Fantasy",67.293,10136,8.1
+399566,Godzilla vs. Kong,Movie,2021,en,"Action, Science Fiction, Adventure",51.098,10098,7.583
+577922,Tenet,Movie,2020,en,"Action, Thriller, Science Fiction",48.373,10088,7.182
+181812,Star Wars: The Rise of Skywalker,Movie,2019,en,"Adventure, Action, Science Fiction",92.728,10059,6.3
+262500,Insurgent,Movie,2015,en,"Action, Science Fiction, Thriller",66.969,10058,6.363
+405774,Bird Box,Movie,2018,en,"Horror, Thriller, Drama",37.937,10041,6.8
+283366,Miss Peregrine's Home for Peculiar Children,Movie,2016,en,"Fantasy, Adventure",43.547,10037,6.8
+392044,Murder on the Orient Express,Movie,2017,en,"Mystery, Drama, Crime",46.968,10026,6.7
+56292,Mission: Impossible - Ghost Protocol,Movie,2011,en,"Action, Thriller, Adventure",63.143,9994,7.093
+60625,Rick and Morty,TV Show,2013,en,"Animation, Comedy, Sci-Fi & Fantasy, Action & Adventure",984.074,9992,8.7
+85552,Euphoria,TV Show,2019,en,Drama,274.79,9937,8.307
+301528,Toy Story 4,Movie,2019,en,"Family, Adventure, Animation, Comedy, Fantasy",57.5,9913,7.5
+872585,Oppenheimer,Movie,2023,en,"Drama, History",164.819,9878,8.1
+381284,Hidden Figures,Movie,2016,en,"Drama, History",56.365,9831,8.056
+330457,Frozen II,Movie,2019,en,"Family, Animation, Adventure, Comedy, Fantasy",74.461,9830,7.2
+454626,Sonic the Hedgehog,Movie,2020,en,"Action, Science Fiction, Comedy, Family",141.864,9798,7.308
+82702,How to Train Your Dragon 2,Movie,2014,en,"Fantasy, Action, Adventure, Animation, Comedy, Family",81.37,9725,7.7
+76170,The Wolverine,Movie,2013,en,"Action, Science Fiction, Adventure",6.222,9714,6.419
+515001,Jojo Rabbit,Movie,2019,en,"Comedy, War, Drama",27.601,9688,8.0
+110415,Snowpiercer,Movie,2013,ko,"Action, Science Fiction, Drama",93.829,9669,6.903
+287947,Shazam!,Movie,2019,en,"Action, Comedy, Fantasy",44.614,9634,7.0
+568124,Encanto,Movie,2021,en,"Animation, Comedy, Family, Fantasy",161.851,9621,7.6
+361743,Top Gun: Maverick,Movie,2022,en,"Action, Drama",173.33,9616,8.2
+346698,Barbie,Movie,2023,en,"Comedy, Adventure",120.89,9609,7.0
+566525,Shang-Chi and the Legend of the Ten Rings,Movie,2021,en,"Action, Adventure, Fantasy",105.015,9583,7.528
+75006,The Umbrella Academy,TV Show,2019,en,"Action & Adventure, Sci-Fi & Fantasy, Drama",140.301,9561,8.533
+316029,The Greatest Showman,Movie,2017,en,Drama,56.747,9539,7.9
+502356,The Super Mario Bros. Movie,Movie,2023,en,"Animation, Family, Adventure, Fantasy, Comedy",185.744,9483,7.6
+337404,Cruella,Movie,2021,en,"Comedy, Crime, Family, Adventure",77.82,9474,8.0
+453395,Doctor Strange in the Multiverse of Madness,Movie,2022,en,"Fantasy, Action, Adventure",111.863,9379,7.267
+399579,Alita: Battle Angel,Movie,2019,en,"Action, Science Fiction, Adventure",64.962,9302,7.238
+264644,Room,Movie,2015,en,"Drama, Thriller",21.608,9260,8.0
+124905,Godzilla,Movie,2014,en,"Action, Drama, Science Fiction",58.344,9223,6.342
+156022,The Equalizer,Movie,2014,en,"Thriller, Action, Crime",132.143,9212,7.28
+76669,Elite,TV Show,2018,es,"Crime, Mystery, Drama",230.758,9207,8.027
+54138,Star Trek Into Darkness,Movie,2013,en,"Action, Adventure, Science Fiction",37.03,9168,7.3
+281338,War for the Planet of the Apes,Movie,2017,en,"Drama, Science Fiction, War",50.884,9144,7.2
+318846,The Big Short,Movie,2015,en,"Comedy, Drama",38.272,9126,7.4
+664413,365 Days,Movie,2020,pl,"Romance, Drama",29.338,9106,7.028
+47971,xXx: Return of Xander Cage,Movie,2017,en,"Action, Adventure, Crime",51.512,8991,6.135
+50620,The Twilight Saga: Breaking Dawn - Part 2,Movie,2012,en,"Adventure, Fantasy, Drama, Romance",97.238,8967,6.461
+550988,Free Guy,Movie,2021,en,"Comedy, Adventure, Science Fiction",64.853,8960,7.485
+138832,We're the Millers,Movie,2013,en,"Comedy, Crime",42.912,8953,6.8
+68724,Elysium,Movie,2013,en,"Science Fiction, Action, Drama, Thriller",31.074,8953,6.5
+177677,Mission: Impossible - Rogue Nation,Movie,2015,en,"Action, Adventure",67.452,8945,7.207
+119051,Wednesday,TV Show,2022,en,"Sci-Fi & Fantasy, Mystery, Comedy",151.403,8897,8.433
+474350,It Chapter Two,Movie,2019,en,"Horror, Thriller",72.391,8851,6.839
+50619,The Twilight Saga: Breaking Dawn - Part 1,Movie,2011,en,"Adventure, Fantasy, Romance",89.456,8840,6.196
+24021,The Twilight Saga: Eclipse,Movie,2010,en,"Adventure, Fantasy, Drama, Romance",81.8,8829,6.204
+512200,Jumanji: The Next Level,Movie,2019,en,"Adventure, Comedy, Fantasy",64.843,8789,6.898
+126889,Alien: Covenant,Movie,2017,en,"Science Fiction, Horror, Thriller",116.873,8782,6.2
+436969,The Suicide Squad,Movie,2021,en,"Action, Comedy, Adventure",98.942,8781,7.5
+45269,The King's Speech,Movie,2010,en,"Drama, History",25.936,8778,7.7
+273481,Sicario,Movie,2015,en,"Action, Crime, Thriller",78.688,8767,7.412
+109439,The Hangover Part III,Movie,2013,en,Comedy,54.495,8743,6.211
+300668,Annihilation,Movie,2018,en,"Science Fiction, Horror",51.77,8734,6.4
+76492,Hotel Transylvania,Movie,2012,en,"Animation, Comedy, Family, Fantasy",56.113,8707,7.0
+50646,"Crazy, Stupid, Love.",Movie,2011,en,"Comedy, Drama, Romance",44.345,8645,7.3
+348350,Solo: A Star Wars Story,Movie,2018,en,"Science Fiction, Adventure, Action",46.466,8643,6.6
+254128,San Andreas,Movie,2015,en,"Action, Drama, Thriller",77.719,8631,6.245
+122906,About Time,Movie,2013,en,"Drama, Romance, Fantasy",53.664,8628,7.9
+391713,Lady Bird,Movie,2017,en,"Drama, Comedy",34.218,8598,7.258
+450465,Glass,Movie,2019,en,"Thriller, Drama, Science Fiction",39.123,8584,6.7
+152532,Dallas Buyers Club,Movie,2013,en,"Drama, History",30.013,8547,7.924
+464052,Wonder Woman 1984,Movie,2020,en,"Action, Adventure, Fantasy",49.71,8536,6.416
+88396,The Falcon and the Winter Soldier,TV Show,2021,en,"Action & Adventure, Drama",84.594,8527,7.635
+259693,The Conjuring 2,Movie,2016,en,Horror,87.663,8506,7.289
+87101,Terminator Genisys,Movie,2015,en,"Science Fiction, Action, Thriller, Adventure",85.789,8483,5.9
+39254,Real Steel,Movie,2011,en,"Action, Science Fiction, Drama",73.536,8478,7.046
+466282,To All the Boys I've Loved Before,Movie,2018,en,"Comedy, Romance",58.205,8459,7.6
+508943,Luca,Movie,2021,en,"Animation, Comedy, Fantasy, Adventure, Family",76.274,8453,7.8
+158015,The Purge,Movie,2013,en,"Science Fiction, Horror, Thriller",50.215,8448,6.252
+646380,Don't Look Up,Movie,2021,en,"Comedy, Science Fiction, Drama",38.701,8447,7.075
+45612,Source Code,Movie,2011,en,"Thriller, Science Fiction, Mystery",31.409,8441,7.302
+524434,Eternals,Movie,2021,en,"Science Fiction, Action, Adventure",76.082,8433,6.83
+50014,The Help,Movie,2011,en,Drama,65.007,8431,8.2
+38356,Transformers: Dark of the Moon,Movie,2011,en,"Action, Science Fiction, Adventure",16.224,8413,6.209
+353081,Mission: Impossible - Fallout,Movie,2018,en,"Action, Adventure",74.575,8361,7.429
+402900,Ocean's Eight,Movie,2018,en,"Crime, Comedy, Action",42.362,8358,7.0
+38700,Bad Boys for Life,Movie,2020,en,"Thriller, Action, Crime",78.702,8354,7.135
+68734,Argo,Movie,2012,en,"Drama, Thriller",26.873,8352,7.278
+51497,Fast Five,Movie,2011,en,"Action, Thriller, Crime",9.524,8304,7.242
+537915,After,Movie,2019,en,"Romance, Drama",81.05,8294,7.122
+314365,Spotlight,Movie,2015,en,"Drama, History",26.83,8292,7.815
+91314,Transformers: Age of Extinction,Movie,2014,en,"Science Fiction, Action, Adventure",83.906,8252,5.9
+48866,The 100,TV Show,2014,en,"Sci-Fi & Fantasy, Drama, Action & Adventure",270.502,8208,7.9
+359724,Ford v Ferrari,Movie,2019,en,"Drama, Action, History",51.828,8172,8.0
+328111,The Secret Life of Pets,Movie,2016,en,"Adventure, Comedy, Animation, Family",18.037,8118,6.289
+339846,Baywatch,Movie,2017,en,"Comedy, Action, Crime",61.416,8118,6.1
+278927,The Jungle Book,Movie,2016,en,"Family, Adventure, Drama, Fantasy",52.89,8103,6.865
+315837,Ghost in the Shell,Movie,2017,en,"Science Fiction, Drama, Action",45.321,8085,6.087
+337167,Fifty Shades Freed,Movie,2018,en,"Drama, Romance",113.653,8055,6.7
+333371,10 Cloverfield Lane,Movie,2016,en,"Thriller, Science Fiction, Drama, Horror",35.904,8034,6.991
+315162,Puss in Boots: The Last Wish,Movie,2022,en,"Animation, Adventure, Fantasy, Comedy, Family",178.402,8031,8.219
+335797,Sing,Movie,2016,en,"Animation, Comedy, Family, Music",73.378,8015,7.112
+187017,22 Jump Street,Movie,2014,en,"Crime, Comedy, Action",50.973,8012,6.8
+290250,The Nice Guys,Movie,2016,en,"Comedy, Crime, Action",47.163,8010,7.1
+50544,Friends with Benefits,Movie,2011,en,"Romance, Comedy",32.042,7987,6.7
+198184,Chappie,Movie,2015,en,"Crime, Action, Science Fiction",66.133,7986,6.786
+22538,Scott Pilgrim vs. the World,Movie,2010,en,"Action, Comedy, Romance",39.321,7985,7.491
+22970,The Cabin in the Woods,Movie,2012,en,"Horror, Mystery",53.47,7957,6.6
+137106,The Lego Movie,Movie,2014,en,"Animation, Family, Adventure, Comedy, Fantasy",48.254,7939,7.4
+406997,Wonder,Movie,2017,en,"Drama, Family",42.794,7928,8.1
+58595,Snow White and the Huntsman,Movie,2012,en,"Adventure, Fantasy, Drama",36.278,7909,6.0
+49013,Cars 2,Movie,2011,en,"Animation, Family, Adventure, Comedy",85.5,7901,6.136
+256591,Focus,Movie,2015,en,"Romance, Comedy, Crime",25.515,7891,6.874
+336843,Maze Runner: The Death Cure,Movie,2018,en,"Science Fiction, Action, Adventure, Thriller",62.64,7891,7.094
+338970,Tomb Raider,Movie,2018,en,"Action, Adventure, Fantasy",45.405,7884,6.4
+340666,Nocturnal Animals,Movie,2016,en,"Drama, Thriller",41.868,7872,7.4
+27578,The Expendables,Movie,2010,en,"Thriller, Adventure, Action",53.249,7827,6.248
+493922,Hereditary,Movie,2018,en,"Horror, Mystery, Thriller",85.093,7819,7.292
+616037,Thor: Love and Thunder,Movie,2022,en,"Fantasy, Action, Comedy",80.047,7778,6.422
+121856,Assassin's Creed,Movie,2016,en,"Action, Adventure, Science Fiction",30.639,7769,5.4
+345940,The Meg,Movie,2018,en,"Action, Science Fiction, Horror",73.245,7730,6.251
+116745,The Secret Life of Walter Mitty,Movie,2013,en,"Adventure, Comedy, Drama, Fantasy",51.074,7698,7.2
+341174,Fifty Shades Darker,Movie,2017,en,"Drama, Romance",68.693,7668,6.5
+57800,Ice Age: Continental Drift,Movie,2012,en,"Animation, Comedy, Adventure, Family",81.518,7660,6.38
+404368,Ralph Breaks the Internet,Movie,2018,en,"Family, Animation, Comedy, Adventure",52.007,7649,7.171
+396535,Train to Busan,Movie,2016,ko,"Horror, Thriller, Action, Adventure",111.112,7645,7.751
+44115,127 Hours,Movie,2010,en,"Adventure, Drama, Thriller",37.971,7606,7.1
+257344,Pixels,Movie,2015,en,"Action, Comedy, Science Fiction",67.677,7602,5.7
+487558,BlacKkKlansman,Movie,2018,en,"Crime, Comedy, Drama",17.695,7597,7.5
+339964,Valerian and the City of a Thousand Planets,Movie,2017,en,"Adventure, Science Fiction, Action",47.957,7545,6.627
+214756,Ted 2,Movie,2015,en,"Comedy, Fantasy",89.359,7540,6.3
+32657,Percy Jackson & the Olympians: The Lightning Thief,Movie,2010,en,"Adventure, Fantasy, Family",64.865,7519,6.21
+300669,Don't Breathe,Movie,2016,en,"Horror, Thriller",35.277,7510,7.0
+312221,Creed,Movie,2015,en,"Action, Drama",60.628,7508,7.408
+10192,Shrek Forever After,Movie,2010,en,"Comedy, Adventure, Fantasy, Animation, Family",203.893,7449,6.38
+458723,Us,Movie,2019,en,"Horror, Thriller",29.67,7437,6.964
+395992,Life,Movie,2017,en,"Horror, Science Fiction, Mystery, Thriller",37.472,7430,6.4
+81356,Sex Education,TV Show,2019,en,"Comedy, Drama",440.291,7395,8.2
+569094,Spider-Man: Across the Spider-Verse,Movie,2023,en,"Animation, Action, Adventure, Science Fiction",159.511,7346,8.347
+223702,Sausage Party,Movie,2016,en,"Adventure, Animation, Comedy, Fantasy",33.355,7342,5.7
+59436,Midnight in Paris,Movie,2011,en,"Fantasy, Comedy, Romance",33.362,7336,7.5
+168672,American Hustle,Movie,2013,en,"Drama, Crime",27.393,7324,6.852
+49444,Kung Fu Panda 2,Movie,2011,en,"Animation, Family, Comedy",59.677,7311,7.0
+384018,Fast & Furious Presents: Hobbs & Shaw,Movie,2019,en,"Action, Adventure, Comedy",91.909,7295,6.85
+385128,F9,Movie,2021,en,"Action, Adventure, Crime",53.599,7289,7.056
+530385,Midsommar,Movie,2019,en,"Horror, Drama, Mystery",60.256,7286,7.2
+44912,Green Lantern,Movie,2011,en,"Adventure, Action, Thriller, Science Fiction",31.223,7281,5.2
+363676,Sully,Movie,2016,en,"Drama, History",39.354,7278,7.196
+282035,The Mummy,Movie,2017,en,"Fantasy, Thriller, Action, Adventure, Horror",47.712,7273,5.513
+619264,The Platform,Movie,2019,es,"Drama, Science Fiction, Thriller",57.107,7266,7.0
+44826,Hugo,Movie,2011,en,"Adventure, Drama, Family",21.245,7254,7.2
+62213,Dark Shadows,Movie,2012,en,"Comedy, Fantasy",31.393,7248,6.1
+324852,Despicable Me 3,Movie,2017,en,"Action, Animation, Comedy, Family, Adventure",46.252,7247,6.5
+454983,The Kissing Booth,Movie,2018,en,"Romance, Comedy",42.15,7245,7.2
+615457,Nobody,Movie,2021,en,"Action, Thriller",54.192,7245,7.9
+20526,TRON: Legacy,Movie,2010,en,"Adventure, Action, Science Fiction",44.783,7236,6.5
+96721,Rush,Movie,2013,en,"Drama, Action",27.202,7217,7.7
+447365,Guardians of the Galaxy Vol. 3,Movie,2023,en,"Science Fiction, Adventure, Action",105.716,7168,7.952
+295693,The Boss Baby,Movie,2017,en,"Animation, Comedy, Family",14.148,7131,6.446
+49519,The Croods,Movie,2013,en,"Animation, Adventure, Family, Fantasy, Comedy, Action",58.571,7130,6.9
+83542,Cloud Atlas,Movie,2012,en,"Drama, Science Fiction",26.684,7127,6.886
+427641,Rampage,Movie,2018,en,"Action, Adventure, Science Fiction",51.011,7125,6.5
+150689,Cinderella,Movie,2015,en,"Romance, Fantasy, Family, Drama",104.479,7114,6.8
+310131,The Witch,Movie,2016,en,"Horror, Fantasy, Drama",52.79,7107,6.978
+376867,Moonlight,Movie,2016,en,Drama,41.654,7102,7.4
+75780,Jack Reacher,Movie,2012,en,"Crime, Drama, Thriller, Action",71.769,7100,6.64
+65754,The Girl with the Dragon Tattoo,Movie,2011,en,"Thriller, Crime, Mystery",35.218,7070,7.4
+44217,Vikings,TV Show,2013,en,"Action & Adventure, Drama, War & Politics",522.079,7065,8.096
+158852,Tomorrowland,Movie,2015,en,"Adventure, Family, Mystery, Science Fiction",55.538,7018,6.278
+109424,Captain Phillips,Movie,2013,en,"Action, Drama, Thriller",32.416,7011,7.542
+492188,Marriage Story,Movie,2019,en,Drama,23.902,7009,7.7
+37735,Easy A,Movie,2010,en,Comedy,25.329,6963,6.8
+195589,Neighbors,Movie,2014,en,Comedy,26.338,6961,6.186
+38055,Megamind,Movie,2010,en,"Animation, Action, Comedy, Family, Science Fiction",58.422,6944,6.999
+398978,The Irishman,Movie,2019,en,"Crime, Drama, History",41.776,6928,7.6
+447404,Pokémon Detective Pikachu,Movie,2019,en,"Action, Adventure, Fantasy",40.373,6927,6.92
+766507,Prey,Movie,2022,en,"Thriller, Action, Science Fiction",76.409,6882,7.698
+603692,John Wick: Chapter 4,Movie,2023,en,"Action, Thriller, Crime",166.821,6875,7.722
+296098,Bridge of Spies,Movie,2015,en,"Thriller, Drama",26.514,6870,7.235
+527774,Raya and the Last Dragon,Movie,2021,en,"Animation, Family, Fantasy, Action, Adventure",73.729,6867,7.841
+49018,Insidious,Movie,2011,en,"Horror, Thriller",52.249,6859,6.939
+68735,Warcraft,Movie,2016,en,"Action, Adventure, Fantasy",59.954,6857,6.38
+70523,Dark,TV Show,2017,de,"Crime, Drama, Sci-Fi & Fantasy, Mystery",165.401,6838,8.418
+98566,Teenage Mutant Ninja Turtles,Movie,2014,en,"Science Fiction, Action, Adventure, Comedy",81.689,6834,5.9
+545611,Everything Everywhere All at Once,Movie,2022,en,"Action, Adventure, Science Fiction",82.099,6831,7.759
+328387,Nerve,Movie,2016,en,"Mystery, Adventure, Crime",18.556,6809,7.0
+533535,Deadpool & Wolverine,Movie,2024,en,"Action, Comedy, Science Fiction",484.727,6809,7.619
+9543,Prince of Persia: The Sands of Time,Movie,2010,en,"Adventure, Fantasy, Action",39.509,6807,6.3
+76757,Jupiter Ascending,Movie,2015,en,"Science Fiction, Fantasy, Action",53.565,6789,5.5
+60304,Hansel & Gretel: Witch Hunters,Movie,2013,en,"Fantasy, Horror, Action",45.092,6783,6.1
+257211,The Intern,Movie,2015,en,Comedy,53.354,6783,7.22
+76163,The Expendables 2,Movie,2012,en,"Action, Adventure, Thriller",41.329,6777,6.347
+81188,Rise of the Guardians,Movie,2012,en,"Animation, Family, Fantasy",48.601,6772,7.4
+39514,RED,Movie,2010,en,"Action, Adventure, Comedy, Crime, Thriller",36.185,6751,6.7
+46195,Rio,Movie,2011,en,"Animation, Adventure, Comedy, Family",57.399,6748,6.7
+439079,The Nun,Movie,2018,en,Horror,72.536,6740,5.892
+381283,mother!,Movie,2017,en,"Drama, Horror, Thriller",27.545,6730,7.0
+337401,Mulan,Movie,2020,en,"Adventure, Fantasy, Action, Family",51.253,6730,6.9
+293863,The Age of Adaline,Movie,2015,en,"Romance, Fantasy, Drama",61.068,6720,7.481
+82675,Taken 2,Movie,2012,en,"Action, Crime, Thriller",45.673,6713,6.4
+419704,Ad Astra,Movie,2019,en,"Science Fiction, Drama",13.339,6704,6.108
+520763,A Quiet Place Part II,Movie,2021,en,"Science Fiction, Thriller, Horror",56.236,6693,7.475
+505642,Black Panther: Wakanda Forever,Movie,2022,en,"Action, Adventure, Science Fiction",105.255,6690,7.072
+188927,Star Trek Beyond,Movie,2016,en,"Action, Adventure, Science Fiction",42.404,6675,6.8
+262504,Allegiant,Movie,2016,en,"Adventure, Science Fiction, Action, Mystery",37.218,6666,6.101
+117263,Olympus Has Fallen,Movie,2013,en,"Action, Thriller",48.481,6655,6.404
+37686,Super 8,Movie,2011,en,"Thriller, Science Fiction, Mystery",27.009,6640,6.8
+87108,Chernobyl,TV Show,2019,en,Drama,98.359,6636,8.685
+320288,Dark Phoenix,Movie,2019,en,"Science Fiction, Action, Adventure",44.875,6606,5.973
+1429,Attack on Titan,TV Show,2013,ja,"Animation, Sci-Fi & Fantasy, Action & Adventure",138.658,6603,8.7
+334543,Lion,Movie,2016,en,Drama,25.901,6602,8.1
+44896,Rango,Movie,2011,en,"Animation, Comedy, Family, Western, Adventure",68.597,6597,6.867
+85937,Demon Slayer: Kimetsu no Yaiba,TV Show,2019,ja,"Animation, Action & Adventure, Sci-Fi & Fantasy",87.326,6585,8.7
+82700,After Earth,Movie,2013,en,"Science Fiction, Action, Adventure",25.39,6578,5.2
+53182,300: Rise of an Empire,Movie,2014,en,"Action, Drama, War",48.762,6576,6.113
+114150,Pitch Perfect,Movie,2012,en,"Comedy, Music, Romance",43.481,6567,7.3
+68728,Oz the Great and Powerful,Movie,2013,en,"Fantasy, Adventure, Family",34.853,6546,5.924
+206487,Predestination,Movie,2014,en,"Science Fiction, Thriller",51.141,6536,7.4
+166428,How to Train Your Dragon: The Hidden World,Movie,2019,en,"Animation, Family, Adventure",87.906,6521,7.7
+77169,Cobra Kai,TV Show,2018,en,"Action & Adventure, Drama, Comedy",664.217,6509,8.2
+718930,Bullet Train,Movie,2022,en,"Action, Comedy, Thriller",56.881,6475,7.442
+241259,Alice Through the Looking Glass,Movie,2016,en,"Adventure, Family, Fantasy",41.589,6473,6.559
+334533,Captain Fantastic,Movie,2016,en,"Adventure, Drama",28.926,6465,7.9
+43074,Ghostbusters,Movie,2016,en,"Action, Fantasy, Comedy",46.436,6464,5.347
+270303,It Follows,Movie,2015,en,"Horror, Mystery",55.031,6451,6.6
+238636,The Purge: Anarchy,Movie,2014,en,"Horror, Thriller",46.91,6448,6.634
+436270,Black Adam,Movie,2022,en,"Action, Adventure, Science Fiction",59.685,6446,6.9
+47964,A Good Day to Die Hard,Movie,2013,en,"Action, Thriller",31.777,6440,5.328
+109414,This Is the End,Movie,2013,en,"Action, Comedy",36.901,6431,6.2
+57214,Project X,Movie,2012,en,Comedy,52.467,6429,6.881
+370172,No Time to Die,Movie,2021,en,"Action, Thriller, Adventure",63.917,6409,7.4
+203801,The Man from U.N.C.L.E.,Movie,2015,en,"Comedy, Action, Adventure",32.897,6403,7.1
+51540,Horrible Bosses,Movie,2011,en,"Comedy, Crime",27.209,6398,6.6
+331482,Little Women,Movie,2019,en,"Drama, Romance, History",40.594,6368,7.9
+693134,Dune: Part Two,Movie,2024,en,"Science Fiction, Adventure",286.234,6347,8.148
+80278,The Impossible,Movie,2012,en,"Drama, Thriller, History",28.089,6338,7.362
+254320,The Lobster,Movie,2015,en,"Comedy, Drama, Romance",33.073,6331,7.044
+18823,Clash of the Titans,Movie,2010,en,"Adventure, Fantasy, Action",51.888,6308,5.9
+302946,The Accountant,Movie,2016,en,"Crime, Thriller, Drama",71.194,6307,7.1
+335988,Transformers: The Last Knight,Movie,2017,en,"Action, Adventure, Science Fiction",68.335,6300,6.0
+207932,Inferno,Movie,2016,en,"Mystery, Thriller, Action",23.418,6287,6.075
+341013,Atomic Blonde,Movie,2017,en,"Action, Adventure, Thriller",33.97,6264,6.4
+373571,Godzilla: King of the Monsters,Movie,2019,en,"Science Fiction, Action",55.566,6261,6.693
+507086,Jurassic World Dominion,Movie,2022,en,"Adventure, Action, Science Fiction",167.189,6260,6.675
+200727,"Love, Rosie",Movie,2014,en,"Romance, Drama, Comedy",35.963,6258,7.8
+86834,Noah,Movie,2014,en,"Drama, Adventure",33.337,6257,5.7
+390043,The Hitman's Bodyguard,Movie,2017,en,"Action, Comedy, Crime, Thriller",46.79,6257,6.9
+258489,The Legend of Tarzan,Movie,2016,en,"Fantasy, Action, Adventure",28.83,6256,5.9
+59859,Kick-Ass 2,Movie,2013,en,"Action, Adventure, Crime",25.27,6225,6.401
+424783,Bumblebee,Movie,2018,en,"Action, Adventure, Science Fiction",40.721,6214,6.7
+38365,Grown Ups,Movie,2010,en,Comedy,93.281,6212,6.394
+508439,Onward,Movie,2020,en,"Family, Animation, Adventure, Comedy, Fantasy",32.194,6212,7.7
+80321,Madagascar 3: Europe's Most Wanted,Movie,2012,en,"Animation, Family, Comedy, Adventure",64.922,6210,6.6
+440021,Happy Death Day,Movie,2017,en,"Comedy, Horror, Mystery",23.292,6209,6.7
+20504,The Book of Eli,Movie,2010,en,"Action, Thriller, Science Fiction",33.361,6182,6.8
+420809,Maleficent: Mistress of Evil,Movie,2019,en,"Family, Fantasy, Adventure, Action",60.54,6170,7.303
+250546,Annabelle,Movie,2014,en,Horror,62.15,6166,5.8
+545609,Extraction,Movie,2020,en,"Action, Thriller",50.256,6153,7.317
+49017,Dracula Untold,Movie,2014,en,"Horror, Action, Fantasy",24.466,6142,6.4
+335787,Uncharted,Movie,2022,en,"Action, Adventure",84.444,6140,6.918
+39538,Contagion,Movie,2011,en,"Drama, Thriller, Science Fiction",22.793,6136,6.6
+140300,Kung Fu Panda 3,Movie,2016,en,"Action, Adventure, Animation, Comedy, Family",65.373,6135,6.9
+406990,What Happened to Monday,Movie,2017,en,"Science Fiction, Thriller, Drama, Mystery, Action",52.731,6117,7.2
+82654,Warm Bodies,Movie,2013,en,"Horror, Comedy, Romance",25.125,6109,6.464
+47933,Independence Day: Resurgence,Movie,2016,en,"Action, Adventure, Science Fiction",72.969,6101,5.332
+497582,Enola Holmes,Movie,2020,en,"Adventure, Mystery, Crime",20.664,6099,7.26
+38575,The Karate Kid,Movie,2010,en,"Action, Adventure, Drama, Family",96.385,6082,6.5
+449176,"Love, Simon",Movie,2018,en,"Comedy, Drama, Romance",23.134,6069,7.997
+238713,Spy,Movie,2015,en,"Action, Comedy, Crime",35.276,6057,6.83
+87502,Flight,Movie,2012,en,Drama,34.412,6053,6.842
+242224,The Babadook,Movie,2014,en,"Drama, Horror",64.284,6045,6.5
+166424,Fantastic Four,Movie,2015,en,"Action, Adventure, Science Fiction",39.063,6039,4.4
+401981,Red Sparrow,Movie,2018,en,"Thriller, Mystery",34.195,6030,6.5
+71912,The Witcher,TV Show,2019,en,"Sci-Fi & Fantasy, Drama, Action & Adventure",189.012,6024,8.0
+1412,Arrow,TV Show,2012,en,"Crime, Drama, Action & Adventure",383.133,6021,6.8
+302699,Central Intelligence,Movie,2016,en,"Action, Comedy",47.574,6001,6.416
+333484,The Magnificent Seven,Movie,2016,en,"Adventure, Action, Western",44.755,5997,6.46
+423108,The Conjuring: The Devil Made Me Do It,Movie,2021,en,"Horror, Mystery, Thriller",84.069,5989,7.413
+522627,The Gentlemen,Movie,2020,en,"Action, Crime, Comedy",44.271,5963,7.7
+260514,Cars 3,Movie,2017,en,"Family, Animation, Adventure, Comedy",87.929,5942,6.8
+76493,The Dictator,Movie,2012,en,Comedy,34.436,5938,6.2
+181886,Enemy,Movie,2014,en,"Thriller, Mystery",29.741,5935,6.863
+181533,Night at the Museum: Secret of the Tomb,Movie,2014,en,"Adventure, Comedy, Fantasy, Family",51.334,5924,6.217
+460465,Mortal Kombat,Movie,2021,en,"Action, Fantasy, Adventure",44.667,5914,7.026
+512195,Red Notice,Movie,2021,en,"Action, Comedy, Crime",52.429,5913,6.8
+334541,Manchester by the Sea,Movie,2016,en,Drama,34.785,5907,7.547
+83666,Moonrise Kingdom,Movie,2012,en,"Comedy, Drama, Romance",19.607,5906,7.685
+624860,The Matrix Resurrections,Movie,2021,en,"Science Fiction, Action, Adventure",66.005,5882,6.388
+80274,Ender's Game,Movie,2013,en,"Science Fiction, Action, Adventure",25.419,5875,6.6
+57201,The Lone Ranger,Movie,2013,en,"Action, Adventure, Western",21.712,5868,6.1
+389015,"I, Tonya",Movie,2017,en,"Drama, Comedy",23.268,5864,7.5
+228967,The Interview,Movie,2014,en,"Action, Comedy",46.466,5846,6.185
+445571,Game Night,Movie,2018,en,"Mystery, Comedy, Crime",24.575,5831,6.9
+39513,Paul,Movie,2011,en,"Adventure, Comedy, Science Fiction",38.158,5827,6.7
+260346,Taken 3,Movie,2014,en,"Thriller, Action",79.527,5819,6.3
+159824,Hotel Transylvania 2,Movie,2015,en,"Animation, Comedy, Family, Fantasy",51.866,5814,6.8
+570670,The Invisible Man,Movie,2020,en,"Thriller, Science Fiction, Horror",38.133,5803,7.1
+338967,Zombieland: Double Tap,Movie,2019,en,"Comedy, Horror, Action",43.371,5794,6.923
+385687,Fast X,Movie,2023,en,"Action, Crime, Thriller",247.229,5794,7.1
+299687,The 5th Wave,Movie,2016,en,"Science Fiction, Adventure, Action",39.535,5786,5.9
+324668,Jason Bourne,Movie,2016,en,"Action, Thriller",42.48,5782,6.361
+50546,Just Go with It,Movie,2011,en,"Comedy, Romance",57.87,5771,6.7
+306819,The Danish Girl,Movie,2015,en,Drama,24.542,5771,7.571
+451048,Jungle Cruise,Movie,2021,en,"Fantasy, Adventure",55.104,5771,7.3
+274857,King Arthur: Legend of the Sword,Movie,2017,en,"Action, Drama, Fantasy",37.962,5749,6.549
+661374,Glass Onion: A Knives Out Mystery,Movie,2022,en,"Comedy, Crime, Mystery",44.249,5749,7.051
+346685,The Girl on the Train,Movie,2016,en,"Thriller, Mystery, Drama, Crime",28.853,5735,6.4
+49040,The Bourne Legacy,Movie,2012,en,"Action, Thriller",30.584,5732,6.228
+400106,Bright,Movie,2017,en,"Fantasy, Action, Thriller",19.77,5696,6.2
+1413,American Horror Story,TV Show,2011,en,"Drama, Mystery, Sci-Fi & Fantasy",201.799,5696,8.1
+527641,Five Feet Apart,Movie,2019,en,"Romance, Drama",49.15,5680,8.242
+49529,John Carter,Movie,2012,en,"Action, Adventure, Science Fiction",44.294,5675,6.327
+396422,Annabelle: Creation,Movie,2017,en,Horror,76.413,5643,6.593
+19885,Sherlock,TV Show,2010,en,"Crime, Drama, Mystery",155.869,5630,8.514
+10140,The Chronicles of Narnia: The Voyage of the Dawn Treader,Movie,2010,en,"Adventure, Family, Fantasy",53.64,5621,6.4
+63247,Westworld,TV Show,2016,en,"Sci-Fi & Fantasy, Western",174.8,5621,8.041
+1022789,Inside Out 2,Movie,2024,en,"Animation, Adventure, Comedy, Family",437.374,5600,7.6
+105864,The Good Dinosaur,Movie,2015,en,"Adventure, Animation, Family",61.979,5599,6.7
+400928,Gifted,Movie,2017,en,"Drama, Comedy",36.749,5582,8.0
+82507,Sinister,Movie,2012,en,"Horror, Thriller, Mystery",41.134,5579,6.9
+44833,Battleship,Movie,2012,en,"Thriller, Action, Adventure, Science Fiction",50.831,5573,5.861
+375262,The Favourite,Movie,2018,en,"Drama, Comedy, Thriller, History",23.209,5549,7.5
+27576,Salt,Movie,2010,en,"Action, Mystery, Thriller",35.711,5537,6.4
+97020,RoboCop,Movie,2014,en,"Science Fiction, Action, Crime",27.143,5532,5.874
+64635,Total Recall,Movie,2012,en,"Action, Science Fiction, Thriller",29.058,5529,6.02
+72559,G.I. Joe: Retaliation,Movie,2013,en,"Action, Science Fiction, Adventure",51.631,5514,5.63
+307081,Southpaw,Movie,2015,en,"Action, Drama",37.955,5493,7.4
+637649,Wrath of Man,Movie,2021,en,"Crime, Action, Thriller",142.167,5483,7.6
+60059,Better Call Saul,TV Show,2015,en,"Crime, Drama",286.518,5475,8.7
+345887,The Equalizer 2,Movie,2018,en,"Action, Thriller, Crime",60.65,5470,6.768
+480530,Creed II,Movie,2018,en,"Drama, Action",70.011,5467,7.0
+107985,The World's End,Movie,2013,en,"Comedy, Action, Science Fiction",18.752,5466,6.8
+41733,Due Date,Movie,2010,en,"Comedy, Drama",26.461,5449,6.382
+37710,The Tourist,Movie,2010,en,"Action, Thriller, Romance",24.522,5449,6.183
+17578,The Adventures of Tintin,Movie,2011,en,"Adventure, Animation, Mystery",34.144,5430,6.899
+157353,Transcendence,Movie,2014,en,"Thriller, Science Fiction, Drama, Mystery",27.001,5429,6.041
+345920,Collateral Beauty,Movie,2016,en,"Drama, Romance",23.411,5405,7.2
+225574,Non-Stop,Movie,2014,en,"Action, Thriller, Mystery",25.908,5401,6.809
+100088,The Last of Us,TV Show,2023,en,Drama,186.238,5377,8.6
+675353,Sonic the Hedgehog 2,Movie,2022,en,"Action, Adventure, Family, Comedy",212.009,5367,7.479
+613504,After We Collided,Movie,2020,en,"Romance, Drama",55.633,5351,7.2
+76726,Chronicle,Movie,2012,en,"Science Fiction, Drama, Thriller",46.737,5348,6.8
+508947,Turning Red,Movie,2022,en,"Animation, Family, Comedy, Fantasy",89.84,5341,7.349
+44264,True Grit,Movie,2010,en,"Drama, Adventure, Western",23.782,5315,7.3
+369972,First Man,Movie,2018,en,"History, Drama",26.066,5314,7.0
+82695,Les Misérables,Movie,2012,en,"History, Drama",27.716,5311,7.3
+254470,Pitch Perfect 2,Movie,2015,en,"Comedy, Music",40.649,5309,6.9
+395834,Wind River,Movie,2017,en,"Crime, Mystery, Thriller",31.75,5303,7.434
+316727,The Purge: Election Year,Movie,2016,en,"Action, Horror, Thriller",42.398,5274,6.4
+42009,Black Mirror,TV Show,2011,en,"Sci-Fi & Fantasy, Drama, Mystery",228.3,5245,8.287
+60308,Moneyball,Movie,2011,en,Drama,23.982,5241,7.3
+107846,Escape Plan,Movie,2013,en,"Action, Thriller",44.553,5214,6.7
+85350,Boyhood,Movie,2014,en,Drama,20.252,5206,7.5
+290859,Terminator: Dark Fate,Movie,2019,en,"Science Fiction, Action, Adventure, Thriller",61.09,5203,6.4
+43347,Love & Other Drugs,Movie,2010,en,"Drama, Comedy, Romance",34.685,5196,7.0
+37680,Suits,TV Show,2011,en,Drama,580.473,5195,8.2
+94997,House of the Dragon,TV Show,2022,en,"Sci-Fi & Fantasy, Drama, Action & Adventure",319.964,5195,8.4
+311324,The Great Wall,Movie,2016,en,"Action, Adventure, Fantasy",52.272,5185,6.0
+453405,Gemini Man,Movie,2019,en,"Science Fiction, Action, Adventure, Thriller",27.456,5168,6.282
+76285,Percy Jackson: Sea of Monsters,Movie,2013,en,"Adventure, Family, Fantasy",18.676,5166,6.027
+640146,Ant-Man and the Wasp: Quantumania,Movie,2023,en,"Action, Adventure, Science Fiction",51.122,5165,6.297
+353491,The Dark Tower,Movie,2017,en,"Fantasy, Action, Science Fiction",74.008,5163,5.76
+593643,The Menu,Movie,2022,en,"Comedy, Horror, Thriller",56.518,5152,7.2
+399404,Darkest Hour,Movie,2017,en,"Drama, History",31.556,5147,7.351
+23168,The Town,Movie,2010,en,"Crime, Drama, Thriller",58.865,5117,7.2
+49049,Dredd,Movie,2012,en,"Action, Science Fiction",25.039,5115,6.84
+82883,The Act,TV Show,2019,en,"Drama, Crime",29.17,5108,7.563
+332567,The Shallows,Movie,2016,en,"Horror, Drama, Thriller",30.604,5090,6.346
+49849,Cowboys & Aliens,Movie,2011,en,"Action, Science Fiction, Thriller, Western",24.165,5089,5.621
+286565,Paper Towns,Movie,2015,en,"Mystery, Drama, Romance",15.847,5066,6.2
+324849,The Lego Batman Movie,Movie,2017,en,"Animation, Action, Comedy, Family",40.947,5052,7.2
+756999,The Black Phone,Movie,2022,en,"Horror, Thriller",54.003,5045,7.6
+447200,Skyscraper,Movie,2018,en,"Action, Thriller, Adventure",25.822,5040,6.319
+138103,The Expendables 3,Movie,2014,en,"Action, Adventure, Thriller",53.221,5035,6.21
+62715,Dragon Ball Super,TV Show,2015,ja,"Animation, Action & Adventure, Sci-Fi & Fantasy",131.567,5020,8.2
+583083,The Kissing Booth 2,Movie,2020,en,"Comedy, Romance",32.164,5016,7.6
+268896,Pacific Rim: Uprising,Movie,2018,en,"Action, Fantasy, Science Fiction, Adventure",48.283,5010,6.1
+504172,The Mule,Movie,2018,en,"Crime, Drama",25.928,5009,6.854
+503919,The Lighthouse,Movie,2019,en,"Drama, Fantasy, Thriller",42.247,5009,7.5
+338762,Bloodshot,Movie,2020,en,"Action, Science Fiction, Adventure",44.673,5001,6.7
+308266,War Dogs,Movie,2016,en,"Comedy, Crime, Drama",34.603,4999,6.923
+310307,The Founder,Movie,2016,en,"Drama, History",33.518,4999,7.13
+559969,El Camino: A Breaking Bad Movie,Movie,2019,en,"Crime, Drama, Thriller",35.872,4991,7.0
+27022,The Sorcerer's Apprentice,Movie,2010,en,"Fantasy, Adventure, Action",30.261,4976,6.117
+479455,Men in Black: International,Movie,2019,en,"Comedy, Science Fiction, Action",46.828,4975,5.909
+62104,The Seven Deadly Sins,TV Show,2014,ja,"Action & Adventure, Animation, Sci-Fi & Fantasy",25.467,4975,8.4
+201085,Crimson Peak,Movie,2015,en,"Horror, Romance, Mystery, Thriller",29.596,4970,6.7
+62286,Fear the Walking Dead,TV Show,2015,en,"Action & Adventure, Drama",332.774,4967,7.7
+399174,Isle of Dogs,Movie,2018,en,"Adventure, Comedy, Animation",26.061,4961,7.8
+65930,My Hero Academia,TV Show,2016,ja,"Action & Adventure, Animation, Sci-Fi & Fantasy",65.689,4955,8.6
+343611,Jack Reacher: Never Go Back,Movie,2016,en,"Action, Thriller",77.906,4940,5.994
+81005,Jack the Giant Slayer,Movie,2013,en,"Fantasy, Action, Adventure, Drama",36.424,4937,5.846
+94605,Arcane,TV Show,2021,en,"Animation, Sci-Fi & Fantasy, Drama, Action & Adventure",191.815,4932,8.8
+253412,Everest,Movie,2015,en,"Adventure, Drama, History",30.573,4921,6.8
+97367,The Place Beyond the Pines,Movie,2013,en,"Drama, Crime",19.006,4865,6.971
+274855,Geostorm,Movie,2017,en,"Action, Science Fiction, Thriller",39.372,4855,6.1
+473033,Uncut Gems,Movie,2019,en,"Drama, Thriller, Crime",32.323,4837,7.156
+290595,The Huntsman: Winter's War,Movie,2016,en,"Action, Adventure, Drama",34.81,4829,6.3
+667538,Transformers: Rise of the Beasts,Movie,2023,en,"Science Fiction, Adventure, Action",165.386,4823,7.248
+509967,6 Underground,Movie,2019,en,"Action, Comedy, Thriller",28.825,4809,6.3
+298312,The Visit,Movie,2015,en,"Horror, Mystery",42.031,4795,6.315
+117251,White House Down,Movie,2013,en,"Action, Drama, Thriller",41.354,4791,6.468
+87739,The Queen's Gambit,TV Show,2020,en,Drama,66.434,4779,8.467
+424139,Halloween,Movie,2018,en,"Horror, Thriller, Crime, Drama",30.544,4774,6.6
+267860,London Has Fallen,Movie,2016,en,"Action, Thriller",35.314,4763,6.21
+23629,Sucker Punch,Movie,2011,en,"Action, Fantasy, Thriller",25.719,4760,6.2
+62560,Mr. Robot,TV Show,2015,en,"Crime, Drama",117.706,4760,8.247
+428078,Mortal Engines,Movie,2018,en,"Adventure, Science Fiction",35.727,4742,6.216
+41630,No Strings Attached,Movie,2011,en,"Comedy, Romance",32.891,4728,6.3
+346910,The Predator,Movie,2018,en,"Science Fiction, Action, Adventure",44.408,4726,5.6
+522681,Escape Room,Movie,2019,en,"Horror, Thriller, Mystery",42.393,4725,6.5
+425909,Ghostbusters: Afterlife,Movie,2021,en,"Fantasy, Comedy, Adventure, Science Fiction",41.643,4722,7.356
+52449,Bad Teacher,Movie,2011,en,Comedy,22.234,4713,5.6
+70785,Anne with an E,TV Show,2017,en,"Drama, Family",108.61,4713,8.7
+46529,I Am Number Four,Movie,2011,en,"Action, Thriller, Science Fiction, Adventure",34.708,4703,6.18
+504608,Rocketman,Movie,2019,en,"Music, Drama",23.615,4703,7.327
+567609,Ready or Not,Movie,2019,en,"Horror, Comedy",45.898,4694,7.039
+976573,Elemental,Movie,2023,en,"Animation, Comedy, Family, Fantasy, Romance",134.706,4687,7.617
+109428,Evil Dead,Movie,2013,en,Horror,43.954,4675,6.6
+20662,Robin Hood,Movie,2010,en,"Action, Adventure, History, Drama",30.765,4673,6.4
+34544,The A-Team,Movie,2010,en,"Action, Comedy, Crime",32.716,4671,6.397
+95557,INVINCIBLE,TV Show,2021,en,"Animation, Sci-Fi & Fantasy, Action & Adventure, Drama",824.063,4660,8.63
+152584,Blue Is the Warmest Color,Movie,2013,fr,"Romance, Drama",32.043,4634,7.1
+476669,The King's Man,Movie,2021,en,"Action, Adventure, Thriller",51.1,4632,6.751
+59440,Warrior,Movie,2011,en,"Drama, Action",30.589,4628,7.842
+446354,The Post,Movie,2017,en,"Drama, History",23.767,4622,7.0
+524047,Greenland,Movie,2020,en,"Action, Thriller, Science Fiction",72.14,4620,7.1
+61889,Marvel's Daredevil,TV Show,2015,en,"Crime, Drama, Action & Adventure",363.755,4618,8.2
+338953,Fantastic Beasts: The Secrets of Dumbledore,Movie,2022,en,"Fantasy, Adventure",59.397,4613,6.648
+376570,Hush,Movie,2016,en,"Horror, Thriller",28.598,4607,6.73
+411088,The Invisible Guest,Movie,2017,es,"Drama, Mystery, Thriller",47.136,4603,8.1
+278154,Ice Age: Collision Course,Movie,2016,en,"Adventure, Animation, Family, Comedy, Science Fiction",46.394,4594,6.1
+296524,Deepwater Horizon,Movie,2016,en,"Drama, Action",26.815,4584,6.877
+147441,Exodus: Gods and Kings,Movie,2014,en,"Adventure, Drama, Action",58.732,4581,5.9
+38050,The Adjustment Bureau,Movie,2011,en,"Science Fiction, Thriller, Romance",24.135,4574,6.762
+337170,American Made,Movie,2017,en,"Comedy, Crime, Drama",27.09,4571,6.882
+97630,Zero Dark Thirty,Movie,2012,en,"Thriller, Drama",29.88,4570,7.0
+369885,Allied,Movie,2016,en,"Action, Drama, War, Romance, Thriller",22.619,4553,6.794
+37834,Knight and Day,Movie,2010,en,"Action, Comedy",27.899,4534,6.2
+631843,Old,Movie,2021,en,"Thriller, Mystery, Horror",43.707,4527,6.332
+792307,Poor Things,Movie,2023,en,"Science Fiction, Romance, Comedy",86.606,4527,7.703
+134374,Pain & Gain,Movie,2013,en,"Action, Crime, Comedy, Drama, Mystery",42.484,4517,6.274
+338766,Hell or High Water,Movie,2016,en,"Western, Crime, Drama",20.164,4510,7.3
+501170,Doctor Sleep,Movie,2019,en,"Horror, Thriller, Fantasy",25.899,4496,7.144
+133805,Carrie,Movie,2013,en,"Drama, Horror",33.159,4489,6.0
+514999,Murder Mystery,Movie,2019,en,"Action, Comedy, Mystery",29.333,4488,6.27
+500664,Upgrade,Movie,2018,en,"Action, Thriller, Science Fiction",55.337,4480,7.5
+123553,The Mortal Instruments: City of Bones,Movie,2013,en,"Fantasy, Action, Mystery",37.745,4473,6.441
+438695,Sing 2,Movie,2021,en,"Animation, Family, Music, Comedy",87.401,4462,7.9
+400155,Hotel Transylvania 3: Summer Vacation,Movie,2018,en,"Animation, Comedy, Family, Fantasy",48.432,4459,6.9
+71552,American Reunion,Movie,2012,en,Comedy,46.947,4447,6.297
+639933,The Northman,Movie,2022,en,"Action, Adventure, Fantasy",41.899,4447,7.048
+696806,The Adam Project,Movie,2022,en,"Adventure, Science Fiction",34.064,4446,7.026
+65334,Miraculous: Tales of Ladybug & Cat Noir,TV Show,2015,fr,"Action & Adventure, Animation, Kids",512.439,4442,8.0
+1184918,The Wild Robot,Movie,2024,en,"Animation, Science Fiction, Family",545.961,4437,8.3
+637920,Miracle in Cell No. 7,Movie,2019,tr,Drama,31.123,4435,8.3
+227156,The Giver,Movie,2014,en,"Drama, Science Fiction",26.947,4433,6.554
+305470,Power Rangers,Movie,2017,en,"Action, Adventure, Science Fiction",31.192,4433,6.3
+339988,The Circle,Movie,2017,en,"Drama, Thriller, Science Fiction",17.98,4429,5.5
+325133,Neighbors 2: Sorority Rising,Movie,2016,en,Comedy,18.364,4426,5.8
+298618,The Flash,Movie,2023,en,"Adventure, Action, Science Fiction",94.378,4424,6.67
+381341,Perfect Strangers,Movie,2016,it,"Comedy, Drama",19.298,4422,7.9
+291870,Dirty Grandpa,Movie,2016,en,Comedy,24.996,4400,5.927
+136797,Need for Speed,Movie,2014,en,"Action, Crime, Drama, Thriller",44.267,4399,6.418
+45317,The Fighter,Movie,2010,en,Drama,18.607,4397,7.4
+55721,Bridesmaids,Movie,2011,en,"Comedy, Romance",31.413,4396,6.523
+399035,The Commuter,Movie,2018,en,"Action, Thriller, Mystery",24.489,4396,6.365
+193756,Lone Survivor,Movie,2013,en,"War, Action, Drama",43.935,4391,7.441
+526896,Morbius,Movie,2022,en,"Action, Science Fiction, Fantasy",37.094,4386,5.984
+109418,Grown Ups 2,Movie,2013,en,Comedy,95.2,4384,6.138
+272693,The DUFF,Movie,2015,en,"Romance, Comedy",18.492,4377,6.8
+302401,Snowden,Movie,2016,en,"Drama, History, Crime, Thriller",17.457,4372,7.104
+203833,The Book Thief,Movie,2013,en,Drama,19.842,4351,7.5
+34524,Teen Wolf,TV Show,2011,en,"Sci-Fi & Fantasy, Drama, Comedy",348.646,4347,8.479
+329996,Dumbo,Movie,2019,en,"Family, Fantasy, Adventure",34.327,4342,6.606
+397243,The Autopsy of Jane Doe,Movie,2016,en,"Horror, Mystery",53.671,4327,6.808
+138697,Don Jon,Movie,2013,en,"Romance, Comedy, Drama",31.629,4323,6.013
+91363,What If...?,TV Show,2021,en,"Animation, Action & Adventure, Sci-Fi & Fantasy",261.121,4310,8.115
+72545,Journey 2: The Mysterious Island,Movie,2012,en,"Adventure, Action, Science Fiction",44.495,4292,6.152
+387426,Okja,Movie,2017,en,"Adventure, Drama, Science Fiction",26.679,4290,7.4
+51828,One Day,Movie,2011,en,"Drama, Romance",37.976,4284,7.422
+103663,The Hunt,Movie,2012,da,Drama,41.569,4280,8.1
+91586,Insidious: Chapter 2,Movie,2013,en,"Horror, Thriller",32.015,4271,6.668
+762504,Nope,Movie,2022,en,"Horror, Mystery, Science Fiction",30.498,4269,6.8
+63311,The Skin I Live In,Movie,2011,es,"Drama, Horror, Mystery, Thriller",49.854,4267,7.5
+224141,Into the Woods,Movie,2014,en,"Fantasy, Comedy",22.649,4256,5.8
+66788,13 Reasons Why,TV Show,2017,en,"Drama, Mystery",149.983,4245,7.59
+507089,Five Nights at Freddy's,Movie,2023,en,"Horror, Mystery, Thriller",87.165,4244,7.489
+57165,Wrath of the Titans,Movie,2012,en,"Fantasy, Adventure, Action",46.287,4243,5.7
+547016,The Old Guard,Movie,2020,en,"Action, Fantasy",30.304,4237,7.135
+105214,Dark Desire,TV Show,2020,es,"Mystery, Drama",57.481,4236,7.311
+27581,The Other Guys,Movie,2010,en,"Action, Comedy, Crime, Thriller",40.669,4234,6.3
+270946,Penguins of Madagascar,Movie,2014,en,"Family, Animation, Adventure, Comedy",76.832,4219,6.5
+62688,Supergirl,TV Show,2015,en,"Drama, Sci-Fi & Fantasy, Action & Adventure",174.254,4219,7.306
+249164,If I Stay,Movie,2014,en,Drama,23.162,4203,7.37
+484247,A Simple Favor,Movie,2018,en,"Crime, Thriller, Comedy",24.214,4200,6.6
+508965,Klaus,Movie,2019,en,"Animation, Family, Adventure, Comedy, Fantasy",25.111,4198,8.243
+356305,Why Him?,Movie,2016,en,Comedy,38.438,4197,6.4
+34851,Predators,Movie,2010,en,"Science Fiction, Action, Thriller",58.518,4194,6.3
+136400,2 Guns,Movie,2013,en,"Action, Comedy, Crime",31.399,4186,6.539
+132232,Mama,Movie,2013,en,Horror,34.348,4172,6.3
+22971,Dear John,Movie,2010,en,"Drama, Romance, War",17.041,4162,6.8
+227159,Horrible Bosses 2,Movie,2014,en,Comedy,33.679,4161,6.181
+321697,Steve Jobs,Movie,2015,en,"Drama, History",15.207,4155,6.8
+536554,M3GAN,Movie,2022,en,"Science Fiction, Horror",48.79,4155,7.054
+227306,Unbroken,Movie,2014,en,"Drama, War",27.813,4149,7.4
+417859,Puss in Boots,Movie,2011,en,"Animation, Family, Fantasy, Adventure, Comedy",68.45,4136,6.569
+205775,In the Heart of the Sea,Movie,2015,en,"Thriller, Drama, Adventure, Action, History",37.035,4132,6.76
+188161,A Million Ways to Die in the West,Movie,2014,en,"Comedy, Western",37.602,4128,6.047
+205587,The Judge,Movie,2014,en,Drama,35.633,4127,7.3
+360920,The Grinch,Movie,2018,en,"Animation, Family, Comedy, Fantasy",72.944,4121,6.9
+274479,Joy,Movie,2015,en,"Drama, Comedy",20.053,4119,6.544
+184315,Hercules,Movie,2014,en,"Action, Adventure",53.608,4114,5.8
+87421,Riddick,Movie,2013,en,"Science Fiction, Action, Thriller",31.325,4106,6.3
+52520,Underworld: Awakening,Movie,2012,en,"Fantasy, Action, Horror",36.167,4102,6.322
+205584,Gods of Egypt,Movie,2016,en,"Action, Adventure, Fantasy",47.41,4097,5.7
+376659,Bad Moms,Movie,2016,en,Comedy,17.624,4094,6.5
+399057,The Killing of a Sacred Deer,Movie,2017,en,"Drama, Thriller, Mystery",28.339,4086,7.022
+590223,Love and Monsters,Movie,2020,en,"Comedy, Action, Adventure, Fantasy, Science Fiction",43.089,4082,7.3
+537996,The Ballad of Buster Scruggs,Movie,2018,en,"Western, Comedy, Drama",28.312,4078,7.134
+823464,Godzilla x Kong: The New Empire,Movie,2024,en,"Action, Adventure, Science Fiction",197.094,4077,7.111
+503736,Army of the Dead,Movie,2021,en,"Action, Crime, Horror",35.08,4075,6.2
+72570,The Vow,Movie,2012,en,"Drama, Romance",22.748,4073,7.2
+376660,The Edge of Seventeen,Movie,2016,en,"Comedy, Drama",20.651,4071,7.2
+90462,Chucky,TV Show,2021,en,"Crime, Comedy, Mystery",144.514,4071,7.8
+225886,Sex Tape,Movie,2014,en,Comedy,41.006,4067,5.4
+146216,RED 2,Movie,2013,en,"Action, Comedy, Crime, Thriller",30.58,4062,6.524
+82682,Gangster Squad,Movie,2013,en,"Crime, Drama, Action, Thriller",16.944,4060,6.367
+575264,Mission: Impossible - Dead Reckoning Part One,Movie,2023,en,"Action, Adventure",138.751,4059,7.532
+49046,All Quiet on the Western Front,Movie,2022,de,"War, History, Drama",63.309,4054,7.7
+785084,The Whale,Movie,2022,en,Drama,35.288,4052,7.832
+379686,Space Jam: A New Legacy,Movie,2021,en,"Family, Animation, Comedy, Science Fiction",37.519,4046,6.7
+460019,Truth or Dare,Movie,2018,en,"Thriller, Horror",26.81,4044,5.9
+985939,Fall,Movie,2022,en,Thriller,72.766,4038,7.1
+49524,R.I.P.D.,Movie,2013,en,"Fantasy, Action, Comedy",27.448,4036,5.8
+378064,A Silent Voice: The Movie,Movie,2016,ja,"Animation, Drama, Romance",49.272,4036,8.4
+442249,The First Purge,Movie,2018,en,"Action, Horror, Thriller",42.962,4021,6.0
+635302,Demon Slayer -Kimetsu no Yaiba- The Movie: Mugen Train,Movie,2020,ja,"Animation, Action, Fantasy, Thriller",105.408,4020,8.2
+933260,The Substance,Movie,2024,en,"Horror, Science Fiction",755.912,4019,7.1
+60797,Scorpion,TV Show,2014,en,"Action & Adventure, Drama, Crime",198.105,4018,8.221
+10196,The Last Airbender,Movie,2010,en,"Action, Adventure, Fantasy",42.597,4004,4.6
+99966,All of Us Are Dead,TV Show,2022,ko,"Action & Adventure, Drama, Sci-Fi & Fantasy",177.603,4000,8.287
+228161,Home,Movie,2015,en,"Fantasy, Comedy, Animation, Science Fiction, Family",42.707,3990,6.8
+351460,Death Note,Movie,2017,en,"Crime, Fantasy, Horror",24.195,3970,4.257
+515195,Yesterday,Movie,2019,en,"Comedy, Fantasy, Music, Romance",15.693,3965,6.7
+136795,The Heat,Movie,2013,en,"Action, Comedy, Crime",34.175,3958,6.6
+86838,Seven Psychopaths,Movie,2012,en,"Comedy, Crime",13.956,3957,6.8
+522938,Rambo: Last Blood,Movie,2019,en,"Action, Thriller, Drama",69.929,3950,6.534
+786892,Furiosa: A Mad Max Saga,Movie,2024,en,"Action, Science Fiction, Adventure",194.776,3941,7.491
+277216,Straight Outta Compton,Movie,2015,en,"Drama, Music, History",33.144,3929,7.8
+72710,The Host,Movie,2013,en,"Action, Adventure, Science Fiction",36.152,3925,6.3
+276907,Legend,Movie,2015,en,"Crime, Thriller",34.299,3925,7.1
+426426,Roma,Movie,2018,es,Drama,16.379,3920,7.6
+569547,Black Mirror: Bandersnatch,Movie,2018,en,"Science Fiction, Mystery, Drama, Thriller, TV Movie",12.252,3917,6.8
+489999,Searching,Movie,2018,en,"Drama, Mystery, Thriller",17.34,3908,7.6
+48138,Unknown,Movie,2011,en,"Action, Mystery, Thriller",19.505,3899,6.678
+345911,Lights Out,Movie,2016,en,Horror,26.438,3898,6.4
+529203,The Croods: A New Age,Movie,2020,en,"Animation, Family, Adventure, Fantasy, Comedy",66.705,3883,7.5
+189,Sin City: A Dame to Kill For,Movie,2014,en,"Crime, Action, Thriller",46.711,3882,6.39
+64686,47 Ronin,Movie,2013,en,"Drama, Action, Fantasy",24.202,3865,6.188
+75174,The Grey,Movie,2012,en,"Action, Adventure, Drama, Thriller",25.95,3860,6.6
+340837,A Cure for Wellness,Movie,2017,en,"Horror, Mystery, Science Fiction",33.976,3860,6.3
+122081,Spring Breakers,Movie,2013,en,"Drama, Crime",18.854,3851,5.2
+301337,Downsizing,Movie,2017,en,"Drama, Science Fiction",24.682,3846,5.4
+290098,The Handmaiden,Movie,2016,ko,"Thriller, Drama, Romance",76.601,3844,8.2
+493529,Dungeons & Dragons: Honor Among Thieves,Movie,2023,en,"Adventure, Fantasy, Comedy",76.585,3844,7.343
+71676,Ghost Rider: Spirit of Vengeance,Movie,2011,en,"Action, Fantasy, Thriller",36.13,3827,5.008
+116149,Paddington,Movie,2014,en,"Comedy, Adventure, Family",82.641,3819,7.1
+72976,Lincoln,Movie,2012,en,"History, Drama",21.453,3812,6.9
+40807,50/50,Movie,2011,en,"Comedy, Drama",14.882,3809,7.169
+41446,Scream 4,Movie,2011,en,"Horror, Mystery",55.374,3802,6.5
+198277,Begin Again,Movie,2014,en,"Comedy, Music, Romance, Drama",19.688,3798,7.2
+257445,Goosebumps,Movie,2015,en,"Adventure, Horror, Comedy",31.113,3796,6.3
+270487,"Hail, Caesar!",Movie,2016,en,"Comedy, Crime, Mystery",17.225,3793,5.923
+41513,The Smurfs,Movie,2011,en,"Animation, Family, Adventure, Comedy, Fantasy",36.572,3783,5.8
+787699,Wonka,Movie,2023,en,"Comedy, Family, Fantasy",100.525,3777,7.093
+321258,The Boy,Movie,2016,en,"Horror, Mystery, Thriller",28.865,3772,6.0
+505026,Death on the Nile,Movie,2022,en,"Mystery, Crime, Thriller",32.587,3771,6.4
+95479,Jujutsu Kaisen,TV Show,2020,ja,"Animation, Action & Adventure, Sci-Fi & Fantasy",309.039,3771,8.584
+481848,The Call of the Wild,Movie,2020,en,"Adventure, Family, Drama",42.152,3767,7.5
+396371,Molly's Game,Movie,2017,en,"Drama, Crime",23.573,3752,7.1
+725201,The Gray Man,Movie,2022,en,"Action, Thriller",52.625,3750,6.9
+301365,The Neon Demon,Movie,2016,en,"Thriller, Horror",19.439,3744,6.5
+296099,Vacation,Movie,2015,en,Comedy,37.617,3738,6.3
+258480,Carol,Movie,2015,en,"Romance, Drama",30.549,3737,7.5
+298250,Jigsaw,Movie,2017,en,"Horror, Mystery, Thriller",28.506,3720,6.2
+346672,Underworld: Blood Wars,Movie,2016,en,"Fantasy, Action, Thriller",43.151,3702,5.9
+153518,The Angry Birds Movie,Movie,2016,en,"Animation, Adventure, Comedy, Family",39.68,3701,6.2
+82520,Return,Movie,2011,en,Drama,6.696,3687,6.4
+417678,"Everything, Everything",Movie,2017,en,"Drama, Romance",26.194,3687,7.2
+438148,Minions: The Rise of Gru,Movie,2022,en,"Animation, Comedy, Family, Adventure",76.441,3685,7.303
+455207,Crazy Rich Asians,Movie,2018,en,"Comedy, Romance",32.817,3684,7.1
+343674,Gerald's Game,Movie,2017,en,"Horror, Thriller",21.501,3680,6.4
+77877,The Lucky One,Movie,2012,en,"Drama, Romance",38.182,3676,7.2
+448119,Dolittle,Movie,2020,en,"Family, Comedy, Fantasy, Adventure",29.009,3669,6.6
+46331,Under the Dome,TV Show,2013,en,"Drama, Mystery, Sci-Fi & Fantasy",166.875,3667,7.162
+63926,One-Punch Man,TV Show,2015,ja,"Animation, Comedy, Action & Adventure",108.653,3659,8.402
+400535,Sicario: Day of the Soldado,Movie,2018,en,"Action, Crime, Thriller",73.065,3653,6.9
+752623,The Lost City,Movie,2022,en,"Action, Adventure, Comedy",46.959,3652,6.493
+59961,Safe House,Movie,2012,en,"Action, Thriller",17.852,3649,6.5
+419479,The Babysitter,Movie,2017,en,"Comedy, Horror",21.47,3644,6.2
+274854,The Last Witch Hunter,Movie,2015,en,"Fantasy, Action, Adventure, Horror",39.653,3631,5.977
+152760,The Monuments Men,Movie,2014,en,"War, Drama, History, Action",19.301,3623,6.1
+300671,13 Hours: The Secret Soldiers of Benghazi,Movie,2016,en,"War, Action, History, Drama, Thriller",71.534,3618,7.273
+136799,Trolls,Movie,2016,en,"Family, Animation, Fantasy, Adventure, Comedy, Music",47.558,3613,6.6
+522402,Finch,Movie,2021,en,"Science Fiction, Drama, Adventure",39.024,3610,7.9
+446021,Bad Times at the El Royale,Movie,2018,en,"Thriller, Mystery, Crime, Drama",23.577,3605,6.842
+73723,The Lorax,Movie,2012,en,"Animation, Family",80.563,3604,6.5
+246741,What We Do in the Shadows,Movie,2014,en,"Comedy, Horror",19.825,3603,7.6
+44048,Unstoppable,Movie,2010,en,"Action, Thriller",25.307,3600,6.6
+588228,The Tomorrow War,Movie,2021,en,"Action, Science Fiction, Adventure",102.771,3597,7.5
+313297,Kubo and the Two Strings,Movie,2016,en,"Animation, Adventure, Family",36.108,3595,7.633
+653346,Kingdom of the Planet of the Apes,Movie,2024,en,"Science Fiction, Adventure, Action, Drama, Thriller",181.483,3592,7.1
+1010581,My Fault,Movie,2023,es,"Romance, Drama",374.566,3581,7.8
+79242,Chilling Adventures of Sabrina,TV Show,2018,en,"Mystery, Sci-Fi & Fantasy, Drama",109.185,3575,8.205
+232672,Blended,Movie,2014,en,"Comedy, Romance",61.42,3573,6.9
+193610,The Other Woman,Movie,2014,en,"Comedy, Romance",27.135,3570,6.4
+335977,Indiana Jones and the Dial of Destiny,Movie,2023,en,"Adventure, Action",78.534,3564,6.56
+521029,Annabelle Comes Home,Movie,2019,en,Horror,66.754,3559,6.401
+399170,Logan Lucky,Movie,2017,en,"Comedy, Crime",21.44,3557,6.727
+308531,Teenage Mutant Ninja Turtles: Out of the Shadows,Movie,2016,en,"Action, Adventure, Comedy, Family, Science Fiction",43.78,3556,6.0
+423204,Angel Has Fallen,Movie,2019,en,"Action, Thriller",39.387,3554,6.593
+1403,Marvel's Agents of S.H.I.E.L.D.,TV Show,2013,en,"Drama, Sci-Fi & Fantasy, Action & Adventure",306.844,3549,7.5
+46648,True Detective,TV Show,2014,en,"Drama, Mystery",246.902,3548,8.3
+23169,Remember Me,Movie,2010,en,"Drama, Romance",25.397,3546,7.1
+371638,The Disaster Artist,Movie,2017,en,"Comedy, Drama",13.041,3545,7.109
+347031,Swiss Army Man,Movie,2016,en,"Comedy, Drama, Romance, Fantasy, Adventure",14.388,3544,6.928
+204082,Homefront,Movie,2013,en,"Action, Thriller",55.08,3541,6.9
+62215,Melancholia,Movie,2011,en,"Drama, Science Fiction",16.699,3539,7.171
+256274,"As Above, So Below",Movie,2014,en,"Horror, Thriller",42.426,3529,6.712
+615656,Meg 2: The Trench,Movie,2023,en,"Action, Science Fiction, Horror",102.924,3526,6.45
+172385,Rio 2,Movie,2014,en,"Animation, Adventure, Comedy, Family",44.694,3525,6.5
+400617,Phantom Thread,Movie,2017,en,"Drama, Romance",24.368,3509,7.3
+94329,The Raid,Movie,2012,id,"Action, Thriller, Crime",40.973,3506,7.405
+401104,To the Bone,Movie,2017,en,Drama,16.685,3498,7.217
+614934,Elvis,Movie,2022,en,"Drama, Music, History",30.749,3498,7.506
+466420,Killers of the Flower Moon,Movie,2023,en,"Crime, History, Drama",67.44,3493,7.436
+87093,Big Eyes,Movie,2014,en,Drama,13.783,3491,6.982
+718789,Lightyear,Movie,2022,en,"Animation, Science Fiction, Family, Adventure",38.007,3491,6.9
+576845,Last Night in Soho,Movie,2021,en,"Horror, Mystery",31.756,3490,7.3
+449563,Isn't It Romantic,Movie,2019,en,"Comedy, Fantasy, Romance",17.833,3488,6.2
+97370,Under the Skin,Movie,2014,en,"Thriller, Science Fiction, Drama",37.279,3486,6.1
+44943,Battle: Los Angeles,Movie,2011,en,"Science Fiction, Action",33.576,3483,5.799
+65086,The Woman in Black,Movie,2012,en,"Drama, Horror, Thriller",20.822,3481,6.1
+48891,Brooklyn Nine-Nine,TV Show,2013,en,"Comedy, Crime",405.598,3476,8.2
+882598,Smile,Movie,2022,en,"Horror, Mystery",79.871,3472,6.7
+456740,Hellboy,Movie,2019,en,"Fantasy, Horror, Action, Adventure",38.678,3471,5.6
+55779,Final Destination 5,Movie,2011,en,"Horror, Mystery",48.108,3469,6.095
+160588,Blue Jasmine,Movie,2013,en,Drama,15.254,3461,6.988
+340102,The New Mutants,Movie,2020,en,"Science Fiction, Horror, Action",35.605,3457,6.098
+60708,Gotham,TV Show,2014,en,"Drama, Crime, Sci-Fi & Fantasy",225.749,3452,7.591
+419478,Midnight Sun,Movie,2018,en,"Romance, Drama",23.574,3446,7.8
+617653,The Last Duel,Movie,2021,en,"History, Drama, Action",31.516,3444,7.4
+57212,War Horse,Movie,2011,en,"War, History, Adventure",22.802,3434,7.3
+397837,Before I Fall,Movie,2017,en,"Drama, Fantasy",15.437,3433,7.0
+265195,Wild Tales,Movie,2014,es,"Drama, Thriller, Comedy",21.135,3432,7.9
+512196,Happy Death Day 2U,Movie,2019,en,"Comedy, Horror, Science Fiction",23.738,3420,6.3
+760104,X,Movie,2022,en,"Horror, Mystery, Thriller",53.229,3420,6.7
+462919,Sierra Burgess Is a Loser,Movie,2018,en,"Comedy, Drama, Romance",9.731,3415,6.305
+258216,Nymphomaniac: Vol. I,Movie,2013,en,Drama,10.598,3413,6.9
+262391,Serial (Bad) Weddings,Movie,2014,fr,Comedy,18.917,3413,6.7
+86831,"Love, Death & Robots",TV Show,2019,en,"Animation, Sci-Fi & Fantasy",155.173,3410,8.3
+50456,Hanna,Movie,2011,en,"Action, Thriller, Adventure",15.492,3409,6.6
+59962,This Means War,Movie,2012,en,"Action, Comedy, Romance",20.733,3407,6.2
+278924,Mechanic: Resurrection,Movie,2016,en,"Action, Crime, Thriller",60.429,3399,6.0
+267935,The BFG,Movie,2016,en,"Adventure, Family, Fantasy",43.772,3398,6.276
+499932,The Devil All the Time,Movie,2020,en,"Crime, Drama, Thriller",26.073,3397,7.2
+46896,The Originals,TV Show,2013,en,"Sci-Fi & Fantasy, Drama, Mystery",173.782,3397,8.596
+77950,Turbo,Movie,2013,en,"Animation, Family",29.631,3396,6.2
+646385,Scream,Movie,2022,en,"Horror, Mystery",60.121,3396,6.668
+295964,Burnt,Movie,2015,en,Drama,24.423,3388,6.5
+945961,Alien: Romulus,Movie,2024,en,"Horror, Science Fiction",328.825,3388,7.2
+866398,The Beekeeper,Movie,2024,en,"Crime, Action, Thriller",130.603,3387,7.337
+62214,Frankenweenie,Movie,2012,en,"Animation, Comedy, Family",26.921,3386,6.992
+899082,Harry Potter 20th Anniversary: Return to Hogwarts,Movie,2022,en,Documentary,48.39,3385,7.3
+88329,Hawkeye,TV Show,2021,en,"Drama, Comedy, Action & Adventure",118.0,3384,7.9
+280092,Insidious: Chapter 3,Movie,2015,en,"Horror, Thriller",29.429,3382,6.3
+458423,Mamma Mia! Here We Go Again,Movie,2018,en,"Comedy, Romance",26.198,3381,7.095
+261023,Black Mass,Movie,2015,en,"Drama, Crime, History",26.246,3376,6.5
+429197,Vice,Movie,2018,en,"Comedy, Drama",14.308,3375,7.0
+929590,Civil War,Movie,2024,en,"War, Action, Drama",164.805,3373,6.9
+457799,"Extremely Wicked, Shockingly Evil and Vile",Movie,2019,en,"Drama, Crime",19.716,3372,7.0
+258230,A Monster Calls,Movie,2016,en,"Fantasy, Adventure, Family",55.935,3367,7.3
+381289,A Dog's Purpose,Movie,2017,en,"Adventure, Comedy, Fantasy, Family, Drama",35.174,3357,7.634
+277685,Unfriended,Movie,2014,en,"Horror, Mystery, Thriller",15.527,3356,5.5
+72331,Abraham Lincoln: Vampire Hunter,Movie,2012,en,"Action, Fantasy, Horror",28.608,3353,5.7
+580175,Another Round,Movie,2020,da,"Comedy, Drama",20.105,3347,7.6
+71886,Siren,TV Show,2018,en,"Sci-Fi & Fantasy, Drama",61.67,3345,7.7
+635744,Jarhead: Law of Return,Movie,2019,en,War,16.802,3344,6.5
+109431,Identity Thief,Movie,2013,en,"Comedy, Crime",18.121,3341,5.853
+458576,Monster Hunter,Movie,2020,en,"Action, Fantasy, Adventure",36.45,3336,6.6
+58233,Johnny English Reborn,Movie,2011,en,"Crime, Action, Comedy",24.518,3333,6.2
+212778,Chef,Movie,2014,en,Comedy,25.857,3333,7.117
+400650,Mary Poppins Returns,Movie,2018,en,"Fantasy, Family, Comedy",20.162,3330,6.5
+80213,The Purge,TV Show,2018,en,"Mystery, Crime, Drama",36.759,3328,6.916
+23631,Machete,Movie,2010,en,"Action, Comedy, Thriller",20.986,3327,6.3
+140823,Saving Mr. Banks,Movie,2013,en,"Comedy, Drama, History",18.164,3320,7.347
+50348,The Lincoln Lawyer,Movie,2011,en,"Crime, Drama, Thriller",26.037,3319,7.2
+353616,Pitch Perfect 3,Movie,2017,en,"Comedy, Music",23.39,3313,6.5
+35690,The Last Song,Movie,2010,en,"Drama, Family, Romance",13.119,3312,7.2
+384521,The Cloverfield Paradox,Movie,2018,en,"Horror, Science Fiction, Thriller",27.377,3305,5.613
+582014,Promising Young Woman,Movie,2020,en,"Thriller, Crime, Drama",22.333,3303,7.4
+77016,End of Watch,Movie,2012,en,"Crime, Drama, Thriller",19.0,3300,7.3
+27582,The Mechanic,Movie,2011,en,"Action, Thriller, Crime",56.226,3298,6.518
+74643,The Artist,Movie,2011,fr,"Drama, Comedy, Romance",12.568,3285,7.456
+78191,You,TV Show,2018,en,Drama,185.479,3284,8.0
+504949,The King,Movie,2019,en,"Drama, History, War",28.889,3281,7.2
+46705,Blue Valentine,Movie,2010,en,"Drama, Romance",31.339,3276,6.9
+514847,The Hunt,Movie,2020,en,"Action, Thriller, Horror",41.796,3276,6.637
+44953,El Señor de los Cielos,TV Show,2013,es,"Crime, Drama, Soap",647.913,3276,7.9
+39351,Grimm,TV Show,2011,en,"Drama, Mystery, Sci-Fi & Fantasy",270.151,3272,8.261
+399361,Triple Frontier,Movie,2019,en,"Action, Thriller, Crime, Adventure",42.845,3261,6.3
+600354,The Father,Movie,2020,en,Drama,27.288,3257,8.1
+543540,The Perfect Date,Movie,2019,en,"Romance, Comedy",18.906,3253,6.5
+615777,Babylon,Movie,2022,en,"Drama, Comedy",68.689,3253,7.369
+39451,Little Fockers,Movie,2010,en,"Comedy, Romance",19.651,3251,5.645
+40805,The Green Hornet,Movie,2011,en,"Action, Crime, Comedy",19.973,3251,5.584
+263472,Knock Knock,Movie,2015,en,"Horror, Thriller, Crime",46.24,3250,5.385
+76649,Pompeii,Movie,2014,en,"Action, Adventure, History, Romance, Drama",25.499,3249,5.54
+244267,I Origins,Movie,2014,en,"Science Fiction, Drama",15.042,3246,7.581
+74577,The End of the F***ing World,TV Show,2017,en,"Comedy, Drama, Crime",62.442,3241,8.062
+328425,The Gift,Movie,2015,en,"Thriller, Mystery, Drama",19.691,3238,6.689
+109451,Cloudy with a Chance of Meatballs 2,Movie,2013,en,"Animation, Family, Comedy",40.915,3232,6.43
+670292,The Creator,Movie,2023,en,"Science Fiction, Action, Adventure",65.229,3230,7.067
+157433,Pet Sematary,Movie,2019,en,"Horror, Thriller",45.979,3229,5.7
+274167,Daddy's Home,Movie,2015,en,Comedy,27.36,3228,6.3
+594767,Shazam! Fury of the Gods,Movie,2023,en,"Comedy, Action, Fantasy",67.515,3228,6.492
+46952,The Blacklist,TV Show,2013,en,"Drama, Crime, Mystery",586.312,3226,7.628
+259694,How to Be Single,Movie,2016,en,"Comedy, Romance",23.134,3220,6.3
+393519,Raw,Movie,2016,fr,"Drama, Horror",23.253,3219,7.056
+84773,The Lord of the Rings: The Rings of Power,TV Show,2022,en,"Action & Adventure, Sci-Fi & Fantasy, Drama",370.339,3218,7.303
+587792,Palm Springs,Movie,2020,en,"Comedy, Romance, Science Fiction",54.292,3208,7.3
+100042,Dumb and Dumber To,Movie,2014,en,Comedy,37.86,3206,5.6
+713704,Evil Dead Rise,Movie,2023,en,"Horror, Thriller",82.823,3204,6.9
+285783,The Walk,Movie,2015,en,"History, Drama",22.334,3201,6.991
+406759,Moonfall,Movie,2022,en,"Science Fiction, Adventure, Action",50.703,3201,6.297
+818647,Through My Window,Movie,2022,es,"Romance, Drama, Comedy",84.886,3198,7.4
+76025,Shame,Movie,2011,en,Drama,25.536,3195,6.9
+884605,No Hard Feelings,Movie,2023,en,"Comedy, Romance",63.523,3195,6.755
+455980,Tag,Movie,2018,en,"Comedy, Action",24.565,3184,6.7
+531309,Brightburn,Movie,2019,en,"Horror, Science Fiction, Thriller, Mystery",36.84,3175,6.1
+228205,The Longest Ride,Movie,2015,en,"Drama, Romance",31.901,3173,7.6
+443791,Underwater,Movie,2020,en,"Horror, Science Fiction, Action, Adventure",32.736,3170,6.287
+926393,The Equalizer 3,Movie,2023,en,"Action, Thriller, Crime",104.406,3169,7.317
+62764,Mirror Mirror,Movie,2012,en,"Adventure, Comedy, Family, Fantasy",26.259,3167,5.9
+49730,Red Riding Hood,Movie,2011,en,"Thriller, Drama, Fantasy, Mystery, Horror",38.231,3165,6.0
+644495,House of Gucci,Movie,2021,en,"History, Drama, Crime",26.277,3162,6.6
+180863,T2 Trainspotting,Movie,2017,en,"Drama, Comedy, Crime",19.957,3151,6.9
+511987,Crawl,Movie,2019,en,"Horror, Thriller, Action",34.256,3140,6.324
+38408,Life As We Know It,Movie,2010,en,"Comedy, Romance, Drama",17.009,3135,6.9
+179144,The Great Beauty,Movie,2013,it,Drama,18.899,3128,7.5
+378236,The Emoji Movie,Movie,2017,en,"Animation, Family, Comedy",32.399,3127,5.4
+238615,Self/less,Movie,2015,en,"Science Fiction, Mystery, Thriller, Action",29.089,3119,6.417
+1008042,Talk to Me,Movie,2023,en,Horror,93.017,3117,7.2
+109421,Side Effects,Movie,2013,en,"Thriller, Crime, Drama",22.207,3110,6.603
+8967,The Tree of Life,Movie,2011,en,"Drama, Fantasy",15.661,3106,6.737
+284293,Still Alice,Movie,2014,en,Drama,21.371,3100,7.485
+167073,Brooklyn,Movie,2015,en,"Romance, Drama, History",23.491,3099,7.3
+412117,The Secret Life of Pets 2,Movie,2019,en,"Adventure, Animation, Comedy, Family",43.598,3099,6.955
+82633,Lawless,Movie,2012,en,"Crime, Drama, Western",16.039,3096,7.1
+61979,Three Steps Above Heaven,Movie,2010,es,"Romance, Drama",66.968,3095,7.7
+249070,Hitman: Agent 47,Movie,2015,en,"Action, Crime, Thriller",35.782,3085,5.9
+556984,The Trial of the Chicago 7,Movie,2020,en,"Drama, History",16.888,3078,7.7
+40075,Gravity Falls,TV Show,2012,en,"Animation, Comedy, Mystery, Sci-Fi & Fantasy, Kids, Action & Adventure, Family",176.588,3078,8.6
+68730,Silence,Movie,2016,en,"Drama, History",21.353,3077,7.1

@@ -1,0 +1,43 @@
+country_name,country_code,population,region,income_group
+United Arab Emirates,ARE,10483751.0,Middle East & North Africa,High income
+Argentina,ARG,45538401.0,Latin America & Caribbean,Upper middle income
+Australia,AUS,26659922.0,East Asia & Pacific,High income
+Belgium,BEL,11779946.0,Europe & Central Asia,High income
+Bulgaria,BGR,6446596.0,Europe & Central Asia,High income
+Brazil,BRA,211140729.0,Latin America & Caribbean,Upper middle income
+Canada,CAN,40083484.0,North America,High income
+Switzerland,CHE,8888822.0,Europe & Central Asia,High income
+Chile,CHL,19658835.0,Latin America & Caribbean,High income
+China,CHN,1410710000.0,East Asia & Pacific,Upper middle income
+Colombia,COL,52321152.0,Latin America & Caribbean,Upper middle income
+Germany,DEU,83287273.0,Europe & Central Asia,High income
+Denmark,DNK,5946952.0,Europe & Central Asia,High income
+Spain,ESP,48352528.0,Europe & Central Asia,High income
+Finland,FIN,5583911.0,Europe & Central Asia,High income
+France,FRA,68372286.0,Europe & Central Asia,High income
+United Kingdom,GBR,68492000.0,Europe & Central Asia,High income
+Greece,GRC,10407351.0,Europe & Central Asia,High income
+"Hong Kong SAR, China",HKG,7536100.0,East Asia & Pacific,High income
+Hungary,HUN,9592186.0,Europe & Central Asia,High income
+Indonesia,IDN,281190067.0,East Asia & Pacific,Upper middle income
+India,IND,1438069596.0,South Asia,Lower middle income
+Ireland,IRL,5311538.0,Europe & Central Asia,High income
+Iceland,ISL,385663.0,Europe & Central Asia,High income
+Israel,ISR,9849000.0,Middle East & North Africa,High income
+Italy,ITA,58984216.0,Europe & Central Asia,High income
+Japan,JPN,124516650.0,East Asia & Pacific,High income
+"Korea, Rep.",KOR,51712619.0,East Asia & Pacific,High income
+Luxembourg,LUX,666430.0,Europe & Central Asia,High income
+Mexico,MEX,129739759.0,Latin America & Caribbean,Upper middle income
+Malta,MLT,552747.0,Middle East & North Africa,High income
+Netherlands,NLD,17877117.0,Europe & Central Asia,High income
+New Zealand,NZL,5200000.0,East Asia & Pacific,High income
+Poland,POL,36687353.0,Europe & Central Asia,High income
+Russian Federation,RUS,143826130.0,Europe & Central Asia,High income
+Singapore,SGP,5917648.0,East Asia & Pacific,High income
+Serbia,SRB,6623183.0,Europe & Central Asia,Upper middle income
+Sweden,SWE,10536632.0,Europe & Central Asia,High income
+Thailand,THA,71702435.0,East Asia & Pacific,Upper middle income
+Turkiye,TUR,85325965.0,Europe & Central Asia,Upper middle income
+United States,USA,336806231.0,North America,High income
+South Africa,ZAF,63212384.0,Sub-Saharan Africa,Upper middle income
